@@ -101,7 +101,6 @@
 - [luckasRanarison/awesome-madagascar](https://github.com/luckasRanarison/awesome-madagascar) - A curated list of Madagascar related projects
 - [mgcodeur/japscan-scraper](https://github.com/mgcodeur/japscan-scraper) - 
 - [RaveloMevaSoavina/baiboly-json](https://github.com/RaveloMevaSoavina/baiboly-json) - Baiboly json is all bible book and chapiter in Malagasy language for the purpose of make a different apps (serving all files as API with json-server)
-- [mgcodeur/laravel-attribute-master](https://github.com/mgcodeur/laravel-attribute-master) - 
 - [mgcodeur/boite-dev-malagasy](https://github.com/mgcodeur/boite-dev-malagasy) - 
 - [laravel/docs](https://github.com/laravel/docs) - The Laravel documentation.
 - [mgcodeur/laravel-ip-control](https://github.com/mgcodeur/laravel-ip-control) - 
@@ -112,6 +111,7 @@
 
 ## PHP 
 
+- [mgcodeur/laravel-attributes](https://github.com/mgcodeur/laravel-attributes) - 
 - [microsoftgraph/msgraph-sdk-php](https://github.com/microsoftgraph/msgraph-sdk-php) - Microsoft Graph Library for PHP.
 - [thetribeio/php-coding-standard](https://github.com/thetribeio/php-coding-standard) - PHP coding standard
 - [nextapps-be/laravel-swagger-ui](https://github.com/nextapps-be/laravel-swagger-ui) - Add Swagger UI to a Laravel application.
