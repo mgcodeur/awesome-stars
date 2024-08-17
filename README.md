@@ -111,7 +111,9 @@
 
 ## PHP 
 
-- [mgcodeur/laravel-attributes](https://github.com/mgcodeur/laravel-attributes) - 
+- [spatie/laravel-data](https://github.com/spatie/laravel-data) - Powerful data objects for Laravel
+- [dedoc/scramble](https://github.com/dedoc/scramble) - Modern Laravel OpenAPI (Swagger) documentation generator. No PHPDoc annotations required.
+- [mgcodeur/laravel-attributable](https://github.com/mgcodeur/laravel-attributable) - 
 - [microsoftgraph/msgraph-sdk-php](https://github.com/microsoftgraph/msgraph-sdk-php) - Microsoft Graph Library for PHP.
 - [thetribeio/php-coding-standard](https://github.com/thetribeio/php-coding-standard) - PHP coding standard
 - [nextapps-be/laravel-swagger-ui](https://github.com/nextapps-be/laravel-swagger-ui) - Add Swagger UI to a Laravel application.
