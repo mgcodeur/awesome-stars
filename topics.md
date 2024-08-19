@@ -49,6 +49,7 @@
 - [languages](#languages)
 - [laravel](#laravel)
 - [linux](#linux)
+- [login](#login)
 - [lua](#lua)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -74,6 +75,7 @@
 - [storybook](#storybook)
 - [svelte](#svelte)
 - [symfony](#symfony)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [testing](#testing)
 - [twitter](#twitter)
@@ -411,6 +413,10 @@
 
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 
+## login 
+
+- [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
+
 ## lua 
 
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
@@ -462,7 +468,6 @@
 
 - [mgcodeur/laravel-attributable](https://github.com/mgcodeur/laravel-attributable) - 
 - [microsoftgraph/msgraph-sdk-php](https://github.com/microsoftgraph/msgraph-sdk-php) - Microsoft Graph Library for PHP.
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [mgcodeur/awesome-stars](https://github.com/mgcodeur/awesome-stars) - My Awesome List
 - [thetribeio/php-coding-standard](https://github.com/thetribeio/php-coding-standard) - PHP coding standard
@@ -644,6 +649,11 @@
 ## symfony 
 
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
+
+## tailwindcss 
+
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
+- [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
 
 ## terminal 
 
