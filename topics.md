@@ -493,7 +493,7 @@
 - [lepikhinb/laravel-fluent](https://github.com/lepikhinb/laravel-fluent) - 
 - [malaohu/reset-navicat-premium](https://github.com/malaohu/reset-navicat-premium) - 无限重置试用 navicat premium所有版本
 - [mgcodeur/japscan-scraper](https://github.com/mgcodeur/japscan-scraper) - 
-- [wctsai20002/navicat-refresh](https://github.com/wctsai20002/navicat-refresh) - Reset Navicat Premium 15 & 16 trial
+- [wctsai20002/navicat-refresh](https://github.com/wctsai20002/navicat-refresh) - Reset Navicat Premium 17 trial
 - [PacktPublishing/High-Performance-with-Laravel-Octane](https://github.com/PacktPublishing/High-Performance-with-Laravel-Octane) - High Performance with Laravel Octane, published by Packt
 - [joecampo/random-user-agent](https://github.com/joecampo/random-user-agent) - Generate real random user-agents
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
