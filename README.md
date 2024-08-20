@@ -28,7 +28,7 @@
 
 ## Batchfile 
 
-- [wctsai20002/navicat-refresh](https://github.com/wctsai20002/navicat-refresh) - Reset Navicat Premium 15 & 16 trial
+- [wctsai20002/navicat-refresh](https://github.com/wctsai20002/navicat-refresh) - Reset Navicat Premium 17 trial
 
 ## C++ 
 
