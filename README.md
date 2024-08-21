@@ -111,6 +111,7 @@
 
 ## PHP 
 
+- [Honeystone/laravel-seo](https://github.com/Honeystone/laravel-seo) - An SEO configuration library for Laravel applications.
 - [spatie/laravel-data](https://github.com/spatie/laravel-data) - Powerful data objects for Laravel
 - [dedoc/scramble](https://github.com/dedoc/scramble) - Modern Laravel OpenAPI (Swagger) documentation generator. No PHPDoc annotations required.
 - [mgcodeur/laravel-attributable](https://github.com/mgcodeur/laravel-attributable) - 
