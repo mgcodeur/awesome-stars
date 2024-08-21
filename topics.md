@@ -466,6 +466,7 @@
 
 ## others 
 
+- [Honeystone/laravel-seo](https://github.com/Honeystone/laravel-seo) - An SEO configuration library for Laravel applications.
 - [mgcodeur/laravel-attributable](https://github.com/mgcodeur/laravel-attributable) - 
 - [microsoftgraph/msgraph-sdk-php](https://github.com/microsoftgraph/msgraph-sdk-php) - Microsoft Graph Library for PHP.
 - [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
