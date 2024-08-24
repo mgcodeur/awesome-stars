@@ -48,6 +48,7 @@
 - [language](#language)
 - [languages](#languages)
 - [laravel](#laravel)
+- [library](#library)
 - [linux](#linux)
 - [login](#login)
 - [lua](#lua)
@@ -412,6 +413,10 @@
 - [spatie/docs.spatie.be-old](https://github.com/spatie/docs.spatie.be-old) - Code of docs.spatie.be
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
+## library 
+
+- [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
+
 ## linux 
 
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
@@ -657,6 +662,7 @@
 
 ## tailwindcss 
 
+- [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
 - [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
 
