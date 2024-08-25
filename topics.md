@@ -21,6 +21,7 @@
 - [css](#css)
 - [database](#database)
 - [deno](#deno)
+- [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
 - [docker](#docker)
@@ -82,6 +83,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [vue](#vue)
+- [web](#web)
 - [web-components](#web-components)
 - [webpack](#webpack)
 - [website](#website)
@@ -150,11 +152,13 @@
 
 ## continuous-integration 
 
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [fluentci-io/services](https://github.com/fluentci-io/services) - Services are processes that run in the background and provide functionality that you might need to test or operate your application in a CI/CD pipeline.
 - [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way https://backdropbuild.com/builds/v4/fluentci
 
 ## css 
 
+- [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
@@ -174,6 +178,10 @@
 - [tsirysndr/rescript-deno](https://github.com/tsirysndr/rescript-deno) - Use Deno with Rescript 🦕
 - [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way https://backdropbuild.com/builds/v4/fluentci
 
+## deployment 
+
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+
 ## design 
 
 - [HatScripts/circle-flags](https://github.com/HatScripts/circle-flags) - A collection of 400+ minimal circular SVG country, state and language flags
@@ -181,6 +189,7 @@
 
 ## devops 
 
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [fluent-ci-templates/laravel-pipeline](https://github.com/fluent-ci-templates/laravel-pipeline) - A ready-to-use CI/CD Pipeline and jobs for Laravel projects.
 - [fluentci-io/services](https://github.com/fluentci-io/services) - Services are processes that run in the background and provide functionality that you might need to test or operate your application in a CI/CD pipeline.
 - [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way https://backdropbuild.com/builds/v4/fluentci
@@ -189,6 +198,7 @@
 
 ## docker 
 
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way https://backdropbuild.com/builds/v4/fluentci
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
@@ -211,10 +221,12 @@
 
 ## font 
 
+- [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## framework 
 
+- [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
@@ -305,6 +317,7 @@
 
 ## javascript 
 
+- [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [npkgz/cli-progress](https://github.com/npkgz/cli-progress) - :hourglass: easy to use progress-bar for command-line/terminal applications
@@ -329,6 +342,7 @@
 
 ## js 
 
+- [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 
 ## json 
@@ -415,6 +429,7 @@
 
 ## library 
 
+- [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 
 ## linux 
@@ -474,6 +489,8 @@
 
 ## others 
 
+- [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
+- [LlmLaraHub/larallama](https://github.com/LlmLaraHub/larallama) - This is version 2 of LaraChain.io ream more at https://LaraLlama.io
 - [Honeystone/laravel-seo](https://github.com/Honeystone/laravel-seo) - An SEO configuration library for Laravel applications.
 - [mgcodeur/laravel-attributable](https://github.com/mgcodeur/laravel-attributable) - 
 - [microsoftgraph/msgraph-sdk-php](https://github.com/microsoftgraph/msgraph-sdk-php) - Microsoft Graph Library for PHP.
@@ -703,6 +720,10 @@
 - [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+
+## web 
+
+- [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 
 ## web-components 
 
