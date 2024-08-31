@@ -99,6 +99,7 @@
 
 ## Others 
 
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [mgcodeur/awesome-stars](https://github.com/mgcodeur/awesome-stars) - My Awesome List
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
