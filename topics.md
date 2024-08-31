@@ -17,6 +17,7 @@
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
+- [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [continuous-integration](#continuous-integration)
 - [css](#css)
@@ -64,6 +65,7 @@
 - [open-source](#open-source)
 - [others](#others)
 - [php](#php)
+- [pwa](#pwa)
 - [python](#python)
 - [react](#react)
 - [react-native](#react-native)
@@ -86,12 +88,14 @@
 - [vue](#vue)
 - [web](#web)
 - [web-components](#web-components)
+- [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
 
 ## ai 
 
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 
 ## ajax 
@@ -148,6 +152,10 @@
 ## chrome 
 
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
+
+## chrome-extension 
+
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 
 ## cli 
 
@@ -619,6 +627,10 @@
 - [spatie/docs.spatie.be-old](https://github.com/spatie/docs.spatie.be-old) - Code of docs.spatie.be
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
+## pwa 
+
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
+
 ## python 
 
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -735,6 +747,10 @@
 ## web-components 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+
+## webapp 
+
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 
 ## webpack 
 
