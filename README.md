@@ -36,6 +36,7 @@
 
 ## CSS 
 
+- [atisawd/boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
 - [julkwel/dtc-app](https://github.com/julkwel/dtc-app) - Digital Training Center Application
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [PrismJS/prism-themes](https://github.com/PrismJS/prism-themes) - A wider selection of Prism themes
@@ -51,6 +52,7 @@
 
 ## HTML 
 
+- [themeselection/sneat-bootstrap-html-admin-template-free](https://github.com/themeselection/sneat-bootstrap-html-admin-template-free) - Most Powerful & Comprehensive Free Bootstrap 5 HTML Admin Dashboard Template built for developers! 🚀
 - [LlmLaraHub/larallama](https://github.com/LlmLaraHub/larallama) - This is version 2 of LaraChain.io ream more at https://LaraLlama.io
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
