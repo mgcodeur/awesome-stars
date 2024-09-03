@@ -248,6 +248,7 @@
 
 ## SCSS 
 
+- [mgcodeur/laravel-sneat-starter](https://github.com/mgcodeur/laravel-sneat-starter) - 
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [DTC-Formation/evaluation-html-css-mgcodeur](https://github.com/DTC-Formation/evaluation-html-css-mgcodeur) - evaluation-html-css-mgcodeur created by GitHub Classroom
 
