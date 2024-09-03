@@ -505,6 +505,7 @@
 
 ## others 
 
+- [mgcodeur/laravel-sneat-starter](https://github.com/mgcodeur/laravel-sneat-starter) - 
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [LlmLaraHub/larallama](https://github.com/LlmLaraHub/larallama) - This is version 2 of LaraChain.io ream more at https://LaraLlama.io
 - [Honeystone/laravel-seo](https://github.com/Honeystone/laravel-seo) - An SEO configuration library for Laravel applications.
