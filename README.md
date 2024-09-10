@@ -81,7 +81,7 @@
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [GoogleChromeLabs/chrome-for-testing](https://github.com/GoogleChromeLabs/chrome-for-testing) - 
 - [mgcodeur/ultimate-manga-scraper](https://github.com/mgcodeur/ultimate-manga-scraper) - 
-- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
+- [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [bluzky/nice-select2](https://github.com/bluzky/nice-select2) - A lightweight vanilla javascript library that replaces native select elements with customizable dropdowns
 - [luwes/lite-vimeo-embed](https://github.com/luwes/lite-vimeo-embed) - 🎥 A faster Vimeo embed.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
