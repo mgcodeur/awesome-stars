@@ -296,7 +296,7 @@
 - [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [shepherd-pro/shepherd](https://github.com/shepherd-pro/shepherd) - Guide your users through a tour of your app
+- [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [julkwel/madagascar-map](https://github.com/julkwel/madagascar-map) - Liste des régions , commune , fokontany Madagascar
 - [LarsWiegers/laravel-translations-checker](https://github.com/LarsWiegers/laravel-translations-checker) - Never worry about missing translations again! Use the translations checker.
 - [svenluijten/artisan-view](https://github.com/svenluijten/artisan-view) - 👀 Manage your views in Laravel projects through artisan
