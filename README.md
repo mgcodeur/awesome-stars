@@ -36,6 +36,7 @@
 
 ## CSS 
 
+- [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [atisawd/boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
 - [julkwel/dtc-app](https://github.com/julkwel/dtc-app) - Digital Training Center Application
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -271,6 +272,7 @@
 
 ## TypeScript 
 
+- [defstudio/vite-livewire-plugin](https://github.com/defstudio/vite-livewire-plugin) - Laravel Vite handler for Livewire components
 - [Akryum/floating-vue](https://github.com/Akryum/floating-vue) - 💬 Easy tooltips, popovers, dropdown, menus... for Vue
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [fluent-ci-templates/laravel-pipeline](https://github.com/fluent-ci-templates/laravel-pipeline) - A ready-to-use CI/CD Pipeline and jobs for Laravel projects.
