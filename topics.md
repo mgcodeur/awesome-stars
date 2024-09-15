@@ -436,7 +436,7 @@
 - [codezero-be/laravel-unique-translation](https://github.com/codezero-be/laravel-unique-translation) - ⭐️ Check if a translated value in a JSON column is unique in the database.
 - [nuwave/lighthouse](https://github.com/nuwave/lighthouse) - A framework for serving GraphQL from Laravel
 - [mcamara/laravel-localization](https://github.com/mcamara/laravel-localization) - Easy localization for Laravel
-- [michael-rubel/laravel-couponables](https://github.com/michael-rubel/laravel-couponables) - Coupons/promocodes leveraging Eloquent's polymorphic relationships
+- [michael-rubel/laravel-couponables](https://github.com/michael-rubel/laravel-couponables) - Promocode functionality leveraging Eloquent polymorphic relationships.
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
 - [JosephSilber/bouncer](https://github.com/JosephSilber/bouncer) - Laravel Eloquent roles and abilities.
@@ -627,7 +627,7 @@
 - [nuwave/lighthouse](https://github.com/nuwave/lighthouse) - A framework for serving GraphQL from Laravel
 - [mcamara/laravel-localization](https://github.com/mcamara/laravel-localization) - Easy localization for Laravel
 - [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab)
-- [michael-rubel/laravel-couponables](https://github.com/michael-rubel/laravel-couponables) - Coupons/promocodes leveraging Eloquent's polymorphic relationships
+- [michael-rubel/laravel-couponables](https://github.com/michael-rubel/laravel-couponables) - Promocode functionality leveraging Eloquent polymorphic relationships.
 - [laravel/pint](https://github.com/laravel/pint) - Laravel Pint is an opinionated PHP code style fixer for minimalists.
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
 - [JosephSilber/bouncer](https://github.com/JosephSilber/bouncer) - Laravel Eloquent roles and abilities.
