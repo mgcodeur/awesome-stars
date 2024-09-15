@@ -203,7 +203,7 @@
 - [nuwave/lighthouse](https://github.com/nuwave/lighthouse) - A framework for serving GraphQL from Laravel
 - [mcamara/laravel-localization](https://github.com/mcamara/laravel-localization) - Easy localization for Laravel
 - [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab)
-- [michael-rubel/laravel-couponables](https://github.com/michael-rubel/laravel-couponables) - Coupons/promocodes leveraging Eloquent's polymorphic relationships
+- [michael-rubel/laravel-couponables](https://github.com/michael-rubel/laravel-couponables) - Promocode functionality leveraging Eloquent polymorphic relationships.
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [tpetry/laravel-query-expressions](https://github.com/tpetry/laravel-query-expressions) - Replace any query raw call with expressions
 - [laravel/pint](https://github.com/laravel/pint) - Laravel Pint is an opinionated PHP code style fixer for minimalists.
