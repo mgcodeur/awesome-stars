@@ -102,6 +102,8 @@
 
 ## Others 
 
+- [spatie/checklist-going-live](https://github.com/spatie/checklist-going-live) - The checklist that is used when a project is going live
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [mgcodeur/awesome-stars](https://github.com/mgcodeur/awesome-stars) - My Awesome List
@@ -272,6 +274,8 @@
 
 ## TypeScript 
 
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [defstudio/vite-livewire-plugin](https://github.com/defstudio/vite-livewire-plugin) - Laravel Vite handler for Livewire components
 - [Akryum/floating-vue](https://github.com/Akryum/floating-vue) - 💬 Easy tooltips, popovers, dropdown, menus... for Vue
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -300,6 +304,7 @@
 
 ## Vue 
 
+- [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.
 - [mostafaznv/nova-ckeditor](https://github.com/mostafaznv/nova-ckeditor) - CkEditor 5 Field for Laravel Nova with Media & Snippet Browsers
 - [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
