@@ -64,6 +64,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
+- [openai](#openai)
 - [others](#others)
 - [php](#php)
 - [pwa](#pwa)
@@ -520,6 +521,10 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [StartBootstrap/startbootstrap-sb-admin](https://github.com/StartBootstrap/startbootstrap-sb-admin) - A free, open source, Bootstrap admin theme created by Start Bootstrap
+
+## openai 
+
+- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 
 ## others 
 
