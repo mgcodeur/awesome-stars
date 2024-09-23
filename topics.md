@@ -528,6 +528,7 @@
 
 ## others 
 
+- [barryvdh/laravel-translation-manager](https://github.com/barryvdh/laravel-translation-manager) - Manage Laravel translation files
 - [spatie/checklist-going-live](https://github.com/spatie/checklist-going-live) - The checklist that is used when a project is going live
 - [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [mgcodeur/laravel-sneat-starter](https://github.com/mgcodeur/laravel-sneat-starter) - 
