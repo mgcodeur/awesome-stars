@@ -43,6 +43,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
 - [html5](#html5)
+- [http](#http)
 - [icon-font](#icon-font)
 - [javascript](#javascript)
 - [jquery](#jquery)
@@ -61,6 +62,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
@@ -111,6 +113,7 @@
 
 ## api 
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [dedoc/scramble](https://github.com/dedoc/scramble) - Modern Laravel OpenAPI (Swagger) documentation generator. No PHPDoc annotations required.
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -248,6 +251,7 @@
 
 ## framework 
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
@@ -291,6 +295,8 @@
 
 ## graphql 
 
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [nuwave/lighthouse](https://github.com/nuwave/lighthouse) - A framework for serving GraphQL from Laravel
 
 ## hacktoberfest 
@@ -335,6 +341,10 @@
 
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 
+## http 
+
+- [Thavarshan/fetch-php](https://github.com/Thavarshan/fetch-php) - 🚀 A lightweight HTTP library inspired by JavaScript's fetch, bringing simplicity and flexibility to PHP HTTP requests.
+
 ## icon-font 
 
 - [atisawd/boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
@@ -342,6 +352,7 @@
 
 ## javascript 
 
+- [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
@@ -391,6 +402,7 @@
 
 ## laravel 
 
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel
 - [defstudio/vite-livewire-plugin](https://github.com/defstudio/vite-livewire-plugin) - Laravel Vite handler for Livewire components
 - [spatie/laravel-settings](https://github.com/spatie/laravel-settings) - Store strongly typed application settings
 - [spatie/laravel-translation-loader](https://github.com/spatie/laravel-translation-loader) - Store your translations in the database or other sources
@@ -504,6 +516,10 @@
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - The most popular FOSS online survey tool on the web.
 - [codezero-be/laravel-unique-translation](https://github.com/codezero-be/laravel-unique-translation) - ⭐️ Check if a translated value in a JSON column is unique in the database.
 
+## nextjs 
+
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+
 ## node 
 
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
@@ -611,6 +627,8 @@
 
 ## php 
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
+- [Thavarshan/fetch-php](https://github.com/Thavarshan/fetch-php) - 🚀 A lightweight HTTP library inspired by JavaScript's fetch, bringing simplicity and flexibility to PHP HTTP requests.
 - [spatie/laravel-translation-loader](https://github.com/spatie/laravel-translation-loader) - Store your translations in the database or other sources
 - [fluent-ci-templates/laravel-pipeline](https://github.com/fluent-ci-templates/laravel-pipeline) - A ready-to-use CI/CD Pipeline and jobs for Laravel projects.
 - [spatie/laravel-data](https://github.com/spatie/laravel-data) - Powerful data objects for Laravel
@@ -667,6 +685,7 @@
 
 ## react 
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [tiavina-mika/mui-tiptap-editor](https://github.com/tiavina-mika/mui-tiptap-editor) - Tiptap editor with Material UI
@@ -726,6 +745,7 @@
 
 ## symfony 
 
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 
 ## tailwindcss 
