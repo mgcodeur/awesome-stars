@@ -122,6 +122,8 @@
 
 ## PHP 
 
+- [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel
+- [Thavarshan/fetch-php](https://github.com/Thavarshan/fetch-php) - 🚀 A lightweight HTTP library inspired by JavaScript's fetch, bringing simplicity and flexibility to PHP HTTP requests.
 - [barryvdh/laravel-translation-manager](https://github.com/barryvdh/laravel-translation-manager) - Manage Laravel translation files
 - [spatie/laravel-settings](https://github.com/spatie/laravel-settings) - Store strongly typed application settings
 - [spatie/laravel-translation-loader](https://github.com/spatie/laravel-translation-loader) - Store your translations in the database or other sources
@@ -274,6 +276,8 @@
 
 ## TypeScript 
 
+- [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
+- [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [defstudio/vite-livewire-plugin](https://github.com/defstudio/vite-livewire-plugin) - Laravel Vite handler for Livewire components
