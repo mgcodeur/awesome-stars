@@ -122,6 +122,7 @@
 
 ## PHP 
 
+- [LaravelDaily/laravel-charts](https://github.com/LaravelDaily/laravel-charts) - Package to draw charts in Laravel with Chart.js
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel
 - [Thavarshan/fetch-php](https://github.com/Thavarshan/fetch-php) - 🚀 A lightweight HTTP library inspired by JavaScript's fetch, bringing simplicity and flexibility to PHP HTTP requests.
 - [barryvdh/laravel-translation-manager](https://github.com/barryvdh/laravel-translation-manager) - Manage Laravel translation files
