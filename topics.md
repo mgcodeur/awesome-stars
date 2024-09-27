@@ -558,7 +558,7 @@
 - [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [mgcodeur/awesome-stars](https://github.com/mgcodeur/awesome-stars) - My Awesome List
 - [thetribeio/php-coding-standard](https://github.com/thetribeio/php-coding-standard) - PHP coding standard
-- [nextapps-be/laravel-swagger-ui](https://github.com/nextapps-be/laravel-swagger-ui) - Add Swagger UI to a Laravel application.
+- [wotzebra/laravel-swagger-ui](https://github.com/wotzebra/laravel-swagger-ui) - Add Swagger UI to a Laravel application.
 - [julkwel/dtc-app](https://github.com/julkwel/dtc-app) - Digital Training Center Application
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [signcl/docusaurus-prince-pdf](https://github.com/signcl/docusaurus-prince-pdf) - Docusaurus PDF generator using Prince XML
