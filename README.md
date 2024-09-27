@@ -136,7 +136,7 @@
 - [mgcodeur/laravel-attributable](https://github.com/mgcodeur/laravel-attributable) - 
 - [microsoftgraph/msgraph-sdk-php](https://github.com/microsoftgraph/msgraph-sdk-php) - Microsoft Graph Library for PHP.
 - [thetribeio/php-coding-standard](https://github.com/thetribeio/php-coding-standard) - PHP coding standard
-- [nextapps-be/laravel-swagger-ui](https://github.com/nextapps-be/laravel-swagger-ui) - Add Swagger UI to a Laravel application.
+- [wotzebra/laravel-swagger-ui](https://github.com/wotzebra/laravel-swagger-ui) - Add Swagger UI to a Laravel application.
 - [Tucker-Eric/EloquentFilter](https://github.com/Tucker-Eric/EloquentFilter) - An Eloquent Way To Filter Laravel Models And Their Relationships
 - [takielias/tablar](https://github.com/takielias/tablar) - Tablar: A Laravel Dashboard Preset Based on Tabler HTML Template + Vite. https://tablar.ebuz.xyz/docs
 - [msafadi/laravel-eloquent-join-with](https://github.com/msafadi/laravel-eloquent-join-with) - Laravel Eloquent JoinWith Relationships
