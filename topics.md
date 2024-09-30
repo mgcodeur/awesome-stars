@@ -752,6 +752,7 @@
 
 ## tailwindcss 
 
+- [sonofmagic/tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) - a obfuscator tool for tailwindcss mangle
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
@@ -813,6 +814,7 @@
 
 ## webpack 
 
+- [sonofmagic/tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) - a obfuscator tool for tailwindcss mangle
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## website 
