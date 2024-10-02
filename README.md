@@ -53,6 +53,7 @@
 
 ## HTML 
 
+- [mgcodeur/medium-clone](https://github.com/mgcodeur/medium-clone) - 
 - [themeselection/sneat-bootstrap-html-admin-template-free](https://github.com/themeselection/sneat-bootstrap-html-admin-template-free) - Most Powerful & Comprehensive Free Bootstrap 5 HTML Admin Dashboard Template built for developers! 🚀
 - [LlmLaraHub/larallama](https://github.com/LlmLaraHub/larallama) - This is version 2 of LaraChain.io ream more at https://LaraLlama.io
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
