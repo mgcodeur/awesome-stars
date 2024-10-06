@@ -102,6 +102,7 @@
 
 ## Others 
 
+- [glennsantos/senior-developer-roadmap](https://github.com/glennsantos/senior-developer-roadmap) - Senior Developer Roadmap, skills and traits developers need to advance to a senior position.
 - [spatie/checklist-going-live](https://github.com/spatie/checklist-going-live) - The checklist that is used when a project is going live
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
@@ -122,6 +123,7 @@
 
 ## PHP 
 
+- [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
 - [LaravelDaily/laravel-charts](https://github.com/LaravelDaily/laravel-charts) - Package to draw charts in Laravel with Chart.js
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel
 - [Thavarshan/fetch-php](https://github.com/Thavarshan/fetch-php) - 🚀 A lightweight HTTP library inspired by JavaScript's fetch, bringing simplicity and flexibility to PHP HTTP requests.
