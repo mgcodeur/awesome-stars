@@ -279,6 +279,7 @@
 
 ## TypeScript 
 
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query.
 - [sonofmagic/tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) - a obfuscator tool for tailwindcss mangle
 - [szimek/signature_pad](https://github.com/szimek/signature_pad) - HTML5 canvas based smooth signature drawing
