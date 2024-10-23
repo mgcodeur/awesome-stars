@@ -123,6 +123,8 @@
 
 ## PHP 
 
+- [spatie/laravel-multitenancy](https://github.com/spatie/laravel-multitenancy) - Make your Laravel app usable by multiple tenants
+- [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
 - [LaravelDaily/laravel-charts](https://github.com/LaravelDaily/laravel-charts) - Package to draw charts in Laravel with Chart.js
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel
