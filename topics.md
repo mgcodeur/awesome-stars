@@ -409,6 +409,8 @@
 
 ## laravel 
 
+- [spatie/laravel-multitenancy](https://github.com/spatie/laravel-multitenancy) - Make your Laravel app usable by multiple tenants
+- [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel
 - [defstudio/vite-livewire-plugin](https://github.com/defstudio/vite-livewire-plugin) - Laravel Vite handler for Livewire components
 - [spatie/laravel-settings](https://github.com/spatie/laravel-settings) - Store strongly typed application settings
@@ -638,6 +640,7 @@
 
 ## php 
 
+- [spatie/laravel-multitenancy](https://github.com/spatie/laravel-multitenancy) - Make your Laravel app usable by multiple tenants
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [Thavarshan/fetch-php](https://github.com/Thavarshan/fetch-php) - 🚀 A lightweight HTTP library inspired by JavaScript's fetch, bringing simplicity and flexibility to PHP HTTP requests.
