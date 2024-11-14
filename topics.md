@@ -557,6 +557,7 @@
 
 ## others 
 
+- [catamphetamine/libphonenumber-js](https://github.com/catamphetamine/libphonenumber-js) - A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [glennsantos/senior-developer-roadmap](https://github.com/glennsantos/senior-developer-roadmap) - Senior Developer Roadmap, skills and traits developers need to advance to a senior position.
 - [mgcodeur/medium-clone](https://github.com/mgcodeur/medium-clone) - 
