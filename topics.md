@@ -579,6 +579,7 @@
 
 ## others 
 
+- [rappasoft/laravel-authentication-log](https://github.com/rappasoft/laravel-authentication-log) - Log user authentication details and send new device notifications.
 - [ireade/Toast.js](https://github.com/ireade/Toast.js) - A library for Toast messages
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
