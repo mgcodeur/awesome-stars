@@ -134,6 +134,8 @@
 
 ## PHP 
 
+- [ralphjsmit/laravel-seo](https://github.com/ralphjsmit/laravel-seo) - A package to handle the SEO in any Laravel application, big or small.
+- [qruto/laravel-wave](https://github.com/qruto/laravel-wave) - Painless Laravel Broadcasting with SSE
 - [JackieDo/Timezone-List](https://github.com/JackieDo/Timezone-List) - A small package use to create a timezone list box in Laravel
 - [rappasoft/laravel-authentication-log](https://github.com/rappasoft/laravel-authentication-log) - Log user authentication details and send new device notifications.
 - [Sopamo/laravel-filepond](https://github.com/Sopamo/laravel-filepond) - Laravel backend module for filepond uploads
