@@ -429,6 +429,7 @@
 
 ## laravel 
 
+- [qruto/laravel-wave](https://github.com/qruto/laravel-wave) - Painless Laravel Broadcasting with SSE
 - [JackieDo/Timezone-List](https://github.com/JackieDo/Timezone-List) - A small package use to create a timezone list box in Laravel
 - [Sopamo/laravel-filepond](https://github.com/Sopamo/laravel-filepond) - Laravel backend module for filepond uploads
 - [cybercog/laravel-ban](https://github.com/cybercog/laravel-ban) - Laravel Ban simplify blocking and banning Eloquent models.
@@ -580,6 +581,7 @@
 
 ## others 
 
+- [ralphjsmit/laravel-seo](https://github.com/ralphjsmit/laravel-seo) - A package to handle the SEO in any Laravel application, big or small.
 - [rappasoft/laravel-authentication-log](https://github.com/rappasoft/laravel-authentication-log) - Log user authentication details and send new device notifications.
 - [ireade/Toast.js](https://github.com/ireade/Toast.js) - A library for Toast messages
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
