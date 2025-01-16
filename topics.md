@@ -606,7 +606,7 @@
 - [wotzebra/laravel-swagger-ui](https://github.com/wotzebra/laravel-swagger-ui) - Add Swagger UI to a Laravel application.
 - [julkwel/dtc-app](https://github.com/julkwel/dtc-app) - Digital Training Center Application
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-- [signcl/docusaurus-prince-pdf](https://github.com/signcl/docusaurus-prince-pdf) - Docusaurus PDF generator using Prince XML
+- [signcl/docusaurus-prince-pdf](https://github.com/signcl/docusaurus-prince-pdf) - Docusaurus/Fumadocs/etc PDF generator using Prince XML
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [postcss/postcss-media-minmax](https://github.com/postcss/postcss-media-minmax) - Writing simple and graceful Media Queries!
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
