@@ -22,7 +22,6 @@
 - [SCSS](#scss)
 - [SVG](#svg)
 - [Shell](#shell)
-- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -292,10 +291,6 @@
 
 - [stefanzweifel/changelog-updater-action](https://github.com/stefanzweifel/changelog-updater-action) - A GitHub Action to automatically update a "Keep a Changelog" CHANGELOG with the latest release notes.
 
-## Svelte 
-
-- [ieedan/jsrepo](https://github.com/ieedan/jsrepo) - ♻️ The best way to reuse your code.
-
 ## Swift 
 
 - [airbnb/HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
@@ -303,6 +298,7 @@
 ## TypeScript 
 
 - [TaTo30/vue-pdf](https://github.com/TaTo30/vue-pdf) - PDF component for Vue 3
+- [ieedan/jsrepo](https://github.com/ieedan/jsrepo) - ♻️ The best way to reuse your code.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
