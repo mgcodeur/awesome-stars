@@ -582,6 +582,7 @@
 
 ## others 
 
+- [tsirysndr/tunein-cli](https://github.com/tsirysndr/tunein-cli) - Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
 - [ralphjsmit/laravel-seo](https://github.com/ralphjsmit/laravel-seo) - A package to handle the SEO in any Laravel application, big or small.
 - [rappasoft/laravel-authentication-log](https://github.com/rappasoft/laravel-authentication-log) - Log user authentication details and send new device notifications.
 - [ireade/Toast.js](https://github.com/ireade/Toast.js) - A library for Toast messages
