@@ -297,6 +297,7 @@
 
 ## TypeScript 
 
+- [tsirysndr/tunein-cli](https://github.com/tsirysndr/tunein-cli) - Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [TaTo30/vue-pdf](https://github.com/TaTo30/vue-pdf) - PDF component for Vue 3
 - [ieedan/jsrepo](https://github.com/ieedan/jsrepo) - ♻️ The best way to reuse your code.
