@@ -30,6 +30,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [es6](#es6)
+- [facebook](#facebook)
 - [font](#font)
 - [framework](#framework)
 - [gh-extension](#gh-extension)
@@ -257,6 +258,10 @@
 
 - [glidejs/glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
+
+## facebook 
+
+- [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
 
 ## font 
 
