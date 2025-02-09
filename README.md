@@ -6,6 +6,7 @@
 ## Contents
 
 - [Batchfile](#batchfile)
+- [Blade](#blade)
 - [C++](#c++)
 - [CSS](#css)
 - [Go](#go)
@@ -29,6 +30,10 @@
 ## Batchfile 
 
 - [wctsai20002/navicat-refresh](https://github.com/wctsai20002/navicat-refresh) - Reset Navicat Premium 17 trial
+
+## Blade 
+
+- [takielias/tablar](https://github.com/takielias/tablar) - Tablar: A Laravel Dashboard Preset Based on Tabler HTML Template + Vite. https://tablar.ebuz.xyz/docs
 
 ## C++ 
 
@@ -158,7 +163,6 @@
 - [thetribeio/php-coding-standard](https://github.com/thetribeio/php-coding-standard) - PHP coding standard
 - [wotzebra/laravel-swagger-ui](https://github.com/wotzebra/laravel-swagger-ui) - Add Swagger UI to a Laravel application.
 - [Tucker-Eric/EloquentFilter](https://github.com/Tucker-Eric/EloquentFilter) - An Eloquent Way To Filter Laravel Models And Their Relationships
-- [takielias/tablar](https://github.com/takielias/tablar) - Tablar: A Laravel Dashboard Preset Based on Tabler HTML Template + Vite. https://tablar.ebuz.xyz/docs
 - [msafadi/laravel-eloquent-join-with](https://github.com/msafadi/laravel-eloquent-join-with) - Laravel Eloquent JoinWith Relationships
 - [aleckrh/laravel-sb-admin-2](https://github.com/aleckrh/laravel-sb-admin-2) - ⚡ Laravel 11, 10, 9, 8 + SB Admin 2
 - [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development
