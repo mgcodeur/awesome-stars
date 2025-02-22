@@ -59,6 +59,7 @@
 
 ## HTML 
 
+- [pryley/star-rating.js](https://github.com/pryley/star-rating.js) - This zero-dependency ES6 module transforms a select with numerical-range values (i.e. 1-5) into a dynamic star rating element.
 - [ireade/Toast.js](https://github.com/ireade/Toast.js) - A library for Toast messages
 - [mgcodeur/medium-clone](https://github.com/mgcodeur/medium-clone) - 
 - [themeselection/sneat-bootstrap-html-admin-template-free](https://github.com/themeselection/sneat-bootstrap-html-admin-template-free) - Most Powerful & Comprehensive Free Bootstrap 5 HTML Admin Dashboard Template built for developers! 🚀
