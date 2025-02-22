@@ -258,6 +258,7 @@
 
 ## es6 
 
+- [pryley/star-rating.js](https://github.com/pryley/star-rating.js) - This zero-dependency ES6 module transforms a select with numerical-range values (i.e. 1-5) into a dynamic star rating element.
 - [glidejs/glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 
