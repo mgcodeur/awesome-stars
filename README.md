@@ -34,6 +34,8 @@
 ## Blade 
 
 - [takielias/tablar](https://github.com/takielias/tablar) - Tablar: A Laravel Dashboard Preset Based on Tabler HTML Template + Vite. https://tablar.ebuz.xyz/docs
+- [aleckrh/laravel-sb-admin-2](https://github.com/aleckrh/laravel-sb-admin-2) - ⚡ Laravel 12, 11, 10, 9, 8 + SB Admin 2
+- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 
 ## C++ 
 
@@ -165,7 +167,6 @@
 - [wotzebra/laravel-swagger-ui](https://github.com/wotzebra/laravel-swagger-ui) - Add Swagger UI to a Laravel application.
 - [Tucker-Eric/EloquentFilter](https://github.com/Tucker-Eric/EloquentFilter) - An Eloquent Way To Filter Laravel Models And Their Relationships
 - [msafadi/laravel-eloquent-join-with](https://github.com/msafadi/laravel-eloquent-join-with) - Laravel Eloquent JoinWith Relationships
-- [aleckrh/laravel-sb-admin-2](https://github.com/aleckrh/laravel-sb-admin-2) - ⚡ Laravel 11, 10, 9, 8 + SB Admin 2
 - [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development
 - [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
@@ -250,7 +251,6 @@
 - [DarkaOnLine/L5-Swagger](https://github.com/DarkaOnLine/L5-Swagger) - OpenApi or Swagger integration to Laravel
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test!
 - [geocoder-php/GeocoderLaravel](https://github.com/geocoder-php/GeocoderLaravel) - Geocoder service provider for Laravel
-- [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
 - [eminiarts/nova-permissions](https://github.com/eminiarts/nova-permissions) - Laravel Nova Grouped Permissions
 
 ## Pug 
