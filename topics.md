@@ -871,6 +871,7 @@
 
 ## vue 
 
+- [wobsoriano/nuxt-proxy](https://github.com/wobsoriano/nuxt-proxy) - Http-proxy middleware for Nuxt 3.
 - [icehaunter/vue3-datepicker](https://github.com/icehaunter/vue3-datepicker) - Simple datepicker component for Vue 3
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
 - [TaTo30/vue-pdf](https://github.com/TaTo30/vue-pdf) - PDF component for Vue 3
