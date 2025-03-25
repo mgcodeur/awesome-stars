@@ -7,6 +7,7 @@
 
 - [ai](#ai)
 - [ajax](#ajax)
+- [analytics](#analytics)
 - [angular](#angular)
 - [api](#api)
 - [automation](#automation)
@@ -22,6 +23,7 @@
 - [cli](#cli)
 - [continuous-integration](#continuous-integration)
 - [css](#css)
+- [data-science](#data-science)
 - [database](#database)
 - [deno](#deno)
 - [design](#design)
@@ -47,6 +49,7 @@
 - [http](#http)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
+- [java](#java)
 - [javascript](#javascript)
 - [jquery](#jquery)
 - [js](#js)
@@ -112,6 +115,10 @@
 ## ajax 
 
 - [roquie/laravel-dusk-select2](https://github.com/roquie/laravel-dusk-select2) - Select2.js support for the Laravel Dusk testing
+
+## analytics 
+
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 
 ## angular 
 
@@ -207,8 +214,13 @@
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [StartBootstrap/startbootstrap-sb-admin](https://github.com/StartBootstrap/startbootstrap-sb-admin) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 
+## data-science 
+
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+
 ## database 
 
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [elipZis/laravel-cacheable-model](https://github.com/elipZis/laravel-cacheable-model) - ⚙️ Automatically cache Laravel Eloquent models by queries
@@ -384,6 +396,10 @@
 
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
 
+## java 
+
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+
 ## javascript 
 
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
@@ -426,6 +442,7 @@
 
 ## kubernetes 
 
+- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 
 ## language 
@@ -558,6 +575,7 @@
 
 ## mysql 
 
+- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 - [codezero-be/laravel-unique-translation](https://github.com/codezero-be/laravel-unique-translation) - ⭐️ Check if a translated value in a JSON column is unique in the database.
@@ -804,6 +822,7 @@
 
 ## sql 
 
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [julkwel/madagascar-map](https://github.com/julkwel/madagascar-map) - Liste des régions , commune , fokontany Madagascar
 
