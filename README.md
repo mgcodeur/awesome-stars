@@ -11,6 +11,7 @@
 - [CSS](#css)
 - [Go](#go)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [MDX](#mdx)
 - [Others](#others)
@@ -43,7 +44,6 @@
 
 ## CSS 
 
-- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
 - [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [atisawd/boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
@@ -54,6 +54,7 @@
 
 ## Go 
 
+- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
@@ -76,6 +77,10 @@
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [paulirish/lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
+
+## Java 
+
+- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 
 ## JavaScript 
 
@@ -305,6 +310,7 @@
 ## TypeScript 
 
 - [wobsoriano/nuxt-proxy](https://github.com/wobsoriano/nuxt-proxy) - Http-proxy middleware for Nuxt 3.
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
 - [Idee8/ShipFree](https://github.com/Idee8/ShipFree) - Open Source Next.js Saas Boilerplate Alternative to ShipFast
 - [tsirysndr/tunein-cli](https://github.com/tsirysndr/tunein-cli) - Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
