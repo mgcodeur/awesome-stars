@@ -124,6 +124,7 @@
 
 ## Others 
 
+- [UniversLaravel/Awesome-Malagasy-Laravel-Projects](https://github.com/UniversLaravel/Awesome-Malagasy-Laravel-Projects) - Awesome Malagasy Laravel Projects is a curated list of Laravel projects developed in Madagascar
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 - [nuxt/awesome](https://github.com/nuxt/awesome) - A curated list of awesome things related to Nuxt.js
 - [glennsantos/senior-developer-roadmap](https://github.com/glennsantos/senior-developer-roadmap) - Senior Developer Roadmap, skills and traits developers need to advance to a senior position.
@@ -147,6 +148,7 @@
 
 ## PHP 
 
+- [cyrildewit/eloquent-viewable](https://github.com/cyrildewit/eloquent-viewable) - A minimalistic analytics package for Laravel with seamless view tracking for Eloquent models
 - [spatie/laravel-cookie-consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
 - [ralphjsmit/laravel-seo](https://github.com/ralphjsmit/laravel-seo) - A package to handle the SEO in any Laravel application, big or small.
 - [qruto/laravel-wave](https://github.com/qruto/laravel-wave) - Painless Laravel Broadcasting with SSE
