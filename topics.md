@@ -404,6 +404,7 @@
 
 ## javascript 
 
+- [oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [spatie/laravel-cookie-consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
@@ -435,6 +436,7 @@
 
 ## js 
 
+- [oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator.
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 
