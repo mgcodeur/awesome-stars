@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [ajax](#ajax)
 - [analytics](#analytics)
+- [android](#android)
 - [angular](#angular)
 - [api](#api)
 - [automation](#automation)
@@ -54,6 +55,7 @@
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
+- [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [languages](#languages)
@@ -120,6 +122,10 @@
 
 - [cyrildewit/eloquent-viewable](https://github.com/cyrildewit/eloquent-viewable) - A minimalistic analytics package for Laravel with seamless view tracking for Eloquent models
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+
+## android 
+
+- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 
 ## angular 
 
@@ -445,6 +451,10 @@
 - [RaveloMevaSoavina/baiboly-json](https://github.com/RaveloMevaSoavina/baiboly-json) - Baiboly json is all bible book and chapiter in Malagasy language for the purpose of make a different apps (serving all files as API with json-server)
 - [codezero-be/laravel-unique-translation](https://github.com/codezero-be/laravel-unique-translation) - ⭐️ Check if a translated value in a JSON column is unique in the database.
 
+## kotlin 
+
+- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
+
 ## kubernetes 
 
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -461,6 +471,7 @@
 
 ## laravel 
 
+- [byErikas/cache-tags](https://github.com/byErikas/cache-tags) - Allows for Redis/Valkey cache flushing multiple tagged items by a single tag.
 - [cyrildewit/eloquent-viewable](https://github.com/cyrildewit/eloquent-viewable) - A minimalistic analytics package for Laravel with seamless view tracking for Eloquent models
 - [spatie/laravel-cookie-consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
 - [qruto/laravel-wave](https://github.com/qruto/laravel-wave) - Painless Laravel Broadcasting with SSE
@@ -617,6 +628,8 @@
 
 ## others 
 
+- [henzeb/var-export-wrapper](https://github.com/henzeb/var-export-wrapper) - wrapping objects and closures for var_export
+- [henzeb/laravel-cache-index](https://github.com/henzeb/laravel-cache-index) - Flexible replacement for tags
 - [UniversLaravel/Awesome-Malagasy-Laravel-Projects](https://github.com/UniversLaravel/Awesome-Malagasy-Laravel-Projects) - Awesome Malagasy Laravel Projects is a curated list of Laravel projects developed in Madagascar
 - [tsirysndr/tunein-cli](https://github.com/tsirysndr/tunein-cli) - Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
 - [ralphjsmit/laravel-seo](https://github.com/ralphjsmit/laravel-seo) - A package to handle the SEO in any Laravel application, big or small.
