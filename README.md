@@ -13,6 +13,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [MDX](#mdx)
 - [Others](#others)
 - [PHP](#php)
@@ -120,6 +121,10 @@
 - [mgcodeur/proxy-middleware](https://github.com/mgcodeur/proxy-middleware) - 
 - [spatie/docs.spatie.be-old](https://github.com/spatie/docs.spatie.be-old) - Code of docs.spatie.be
 
+## Kotlin 
+
+- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
+
 ## MDX 
 
 - [meilisearch/documentation](https://github.com/meilisearch/documentation) - Meilisearch documentation
@@ -150,6 +155,9 @@
 
 ## PHP 
 
+- [byErikas/cache-tags](https://github.com/byErikas/cache-tags) - Allows for Redis/Valkey cache flushing multiple tagged items by a single tag.
+- [henzeb/var-export-wrapper](https://github.com/henzeb/var-export-wrapper) - wrapping objects and closures for var_export
+- [henzeb/laravel-cache-index](https://github.com/henzeb/laravel-cache-index) - Flexible replacement for tags
 - [cyrildewit/eloquent-viewable](https://github.com/cyrildewit/eloquent-viewable) - A minimalistic analytics package for Laravel with seamless view tracking for Eloquent models
 - [spatie/laravel-cookie-consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
 - [ralphjsmit/laravel-seo](https://github.com/ralphjsmit/laravel-seo) - A package to handle the SEO in any Laravel application, big or small.
