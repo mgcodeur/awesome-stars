@@ -321,6 +321,7 @@
 
 ## TypeScript 
 
+- [mgcodeur/french-manga-scraper](https://github.com/mgcodeur/french-manga-scraper) - 
 - [wobsoriano/nuxt-proxy](https://github.com/wobsoriano/nuxt-proxy) - Http-proxy middleware for Nuxt 3.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
