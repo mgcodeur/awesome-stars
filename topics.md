@@ -634,7 +634,6 @@
 
 ## others 
 
-- [mgcodeur/french-manga-scraper](https://github.com/mgcodeur/french-manga-scraper) - 
 - [henzeb/var-export-wrapper](https://github.com/henzeb/var-export-wrapper) - wrapping objects and closures for var_export
 - [henzeb/laravel-cache-index](https://github.com/henzeb/laravel-cache-index) - Flexible replacement for tags
 - [UniversLaravel/Awesome-Malagasy-Laravel-Projects](https://github.com/UniversLaravel/Awesome-Malagasy-Laravel-Projects) - Awesome Malagasy Laravel Projects is a curated list of Laravel projects developed in Madagascar
