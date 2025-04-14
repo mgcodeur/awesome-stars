@@ -902,6 +902,7 @@
 
 ## typescript 
 
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [Idee8/ShipFree](https://github.com/Idee8/ShipFree) - Open Source Next.js Saas Boilerplate Alternative to ShipFast
 - [ieedan/jsrepo](https://github.com/ieedan/jsrepo) - ♻️ The best way to reuse your code.
