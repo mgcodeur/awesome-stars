@@ -278,6 +278,7 @@
 
 ## Python 
 
+- [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [malaohu/reset-navicat-premium](https://github.com/malaohu/reset-navicat-premium) - 无限重置试用 navicat premium所有版本
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
