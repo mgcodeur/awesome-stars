@@ -634,7 +634,10 @@
 
 ## others 
 
+- [mamyraoby/phanisana](https://github.com/mamyraoby/phanisana) - Phanisana is a PHP library to convert numbers into string in Malagasy language.
+- [Tiavina22/dash](https://github.com/Tiavina22/dash) - Github stats application
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
+- [mgcodeur/french-manga-scraper](https://github.com/mgcodeur/french-manga-scraper) - 🇫🇷 French Manga Scraper A modern TypeScript tool to search, explore, and download manga from French sources like ScanVF. Designed to be modular, testable, and easily extensible with additional provide
 - [henzeb/var-export-wrapper](https://github.com/henzeb/var-export-wrapper) - wrapping objects and closures for var_export
 - [henzeb/laravel-cache-index](https://github.com/henzeb/laravel-cache-index) - Flexible replacement for tags
 - [UniversLaravel/Awesome-Malagasy-Laravel-Projects](https://github.com/UniversLaravel/Awesome-Malagasy-Laravel-Projects) - Awesome Malagasy Laravel Projects is a curated list of Laravel projects developed in Madagascar
