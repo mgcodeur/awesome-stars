@@ -155,6 +155,7 @@
 
 ## PHP 
 
+- [mamyraoby/phanisana](https://github.com/mamyraoby/phanisana) - Phanisana is a PHP library to convert numbers into string in Malagasy language.
 - [byErikas/cache-tags](https://github.com/byErikas/cache-tags) - Allows for Redis/Valkey cache flushing multiple tagged items by a single tag.
 - [henzeb/var-export-wrapper](https://github.com/henzeb/var-export-wrapper) - wrapping objects and closures for var_export
 - [henzeb/laravel-cache-index](https://github.com/henzeb/laravel-cache-index) - Flexible replacement for tags
@@ -322,7 +323,9 @@
 
 ## TypeScript 
 
+- [Tiavina22/dash](https://github.com/Tiavina22/dash) - Github stats application
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
+- [mgcodeur/french-manga-scraper](https://github.com/mgcodeur/french-manga-scraper) - 🇫🇷 French Manga Scraper A modern TypeScript tool to search, explore, and download manga from French sources like ScanVF. Designed to be modular, testable, and easily extensible with additional provide
 - [wobsoriano/nuxt-proxy](https://github.com/wobsoriano/nuxt-proxy) - Http-proxy middleware for Nuxt 3.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
