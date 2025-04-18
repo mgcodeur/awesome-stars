@@ -195,7 +195,7 @@
 
 ## cli 
 
-- [ieedan/jsrepo](https://github.com/ieedan/jsrepo) - ♻️ The best way to reuse your code.
+- [jsrepojs/jsrepo](https://github.com/jsrepojs/jsrepo) - ♻️ The best way to reuse your code.
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [npkgz/cli-progress](https://github.com/npkgz/cli-progress) - :hourglass: easy to use progress-bar for command-line/terminal applications
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
@@ -634,7 +634,7 @@
 
 ## others 
 
-- [mamyraoby/phanisana](https://github.com/mamyraoby/phanisana) - Phanisana is a PHP library to convert numbers into string in Malagasy language.
+- [mamyraoby/phanisana](https://github.com/mamyraoby/phanisana) - Phanisana is a powerful PHP library that transforms numbers, dates, and times into their full-text equivalents in the Malagasy 🇲🇬 language. Whether you're localizing applications, building educational
 - [Tiavina22/dash](https://github.com/Tiavina22/dash) - Github stats application
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [mgcodeur/french-manga-scraper](https://github.com/mgcodeur/french-manga-scraper) - 🇫🇷 French Manga Scraper A modern TypeScript tool to search, explore, and download manga from French sources like ScanVF. Designed to be modular, testable, and easily extensible with additional provide
@@ -882,7 +882,7 @@
 - [sonofmagic/tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) - a obfuscator tool for tailwindcss mangle
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [thedevdojo/pines](https://github.com/thedevdojo/pines) - The Pines UI library
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
 
 ## terminal 
@@ -909,7 +909,7 @@
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [Idee8/ShipFree](https://github.com/Idee8/ShipFree) - Open Source Next.js Saas Boilerplate Alternative to ShipFast
-- [ieedan/jsrepo](https://github.com/ieedan/jsrepo) - ♻️ The best way to reuse your code.
+- [jsrepojs/jsrepo](https://github.com/jsrepojs/jsrepo) - ♻️ The best way to reuse your code.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [fluent-ci-templates/laravel-pipeline](https://github.com/fluent-ci-templates/laravel-pipeline) - A ready-to-use CI/CD Pipeline and jobs for Laravel projects.
