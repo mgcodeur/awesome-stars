@@ -634,8 +634,9 @@
 
 ## others 
 
+- [tambanivohitra007/OCR_GPT_Helper](https://github.com/tambanivohitra007/OCR_GPT_Helper) - This project is a C# application that combines Optical Character Recognition (OCR) and OpenAI GPT-based API to automatically extract text from images and analyze or answer multiple-choice questions ba
 - [mamyraoby/phanisana](https://github.com/mamyraoby/phanisana) - Phanisana is a powerful PHP library that transforms numbers, dates, and times into their full-text equivalents in the Malagasy 🇲🇬 language. Whether you're localizing applications, building educational
-- [Tiavina22/dash](https://github.com/Tiavina22/dash) - Github stats application
+- [Tiavina22/dash](https://github.com/Tiavina22/dash) - View your GitHub statistics in an elegant and modern way. Get insights into your contributions, languages used, and much more.
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [mgcodeur/french-manga-scraper](https://github.com/mgcodeur/french-manga-scraper) - 🇫🇷 French Manga Scraper A modern TypeScript tool to search, explore, and download manga from French sources like ScanVF. Designed to be modular, testable, and easily extensible with additional provide
 - [henzeb/var-export-wrapper](https://github.com/henzeb/var-export-wrapper) - wrapping objects and closures for var_export
