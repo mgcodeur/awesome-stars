@@ -7,6 +7,7 @@
 
 - [Batchfile](#batchfile)
 - [Blade](#blade)
+- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Go](#go)
@@ -38,6 +39,10 @@
 - [takielias/tablar](https://github.com/takielias/tablar) - Tablar: A Laravel blade starter kit Based on Tabler HTML Template + Vite. https://tablar.ebuz.xyz/docs
 - [aleckrh/laravel-sb-admin-2](https://github.com/aleckrh/laravel-sb-admin-2) - ⚡ Laravel 12, 11, 10, 9, 8 + SB Admin 2
 - [laravel/laravel](https://github.com/laravel/laravel) - Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.
+
+## C# # 
+
+- [tambanivohitra007/OCR_GPT_Helper](https://github.com/tambanivohitra007/OCR_GPT_Helper) - This project is a C# application that combines Optical Character Recognition (OCR) and OpenAI GPT-based API to automatically extract text from images and analyze or answer multiple-choice questions ba
 
 ## C++ 
 
@@ -323,7 +328,7 @@
 
 ## TypeScript 
 
-- [Tiavina22/dash](https://github.com/Tiavina22/dash) - Github stats application
+- [Tiavina22/dash](https://github.com/Tiavina22/dash) - View your GitHub statistics in an elegant and modern way. Get insights into your contributions, languages used, and much more.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [mgcodeur/french-manga-scraper](https://github.com/mgcodeur/french-manga-scraper) - 🇫🇷 French Manga Scraper A modern TypeScript tool to search, explore, and download manga from French sources like ScanVF. Designed to be modular, testable, and easily extensible with additional provide
 - [wobsoriano/nuxt-proxy](https://github.com/wobsoriano/nuxt-proxy) - Http-proxy middleware for Nuxt 3.
