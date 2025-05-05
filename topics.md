@@ -107,6 +107,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [xml](#xml)
 
 ## ai 
 
@@ -338,6 +339,7 @@
 
 ## google 
 
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
 - [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
 - [statickidz/php-google-translate-free](https://github.com/statickidz/php-google-translate-free) - PHP class to use the Google Translator API for free.
 
@@ -477,6 +479,7 @@
 
 ## laravel 
 
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
 - [byErikas/cache-tags](https://github.com/byErikas/cache-tags) - Allows for Redis/Valkey cache flushing multiple tagged items by a single tag.
 - [cyrildewit/eloquent-viewable](https://github.com/cyrildewit/eloquent-viewable) - A minimalistic analytics package for Laravel with seamless view tracking for Eloquent models
 - [spatie/laravel-cookie-consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
@@ -736,6 +739,7 @@
 
 ## php 
 
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
 - [cyrildewit/eloquent-viewable](https://github.com/cyrildewit/eloquent-viewable) - A minimalistic analytics package for Laravel with seamless view tracking for Eloquent models
 - [spatie/laravel-cookie-consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
 - [Sopamo/laravel-filepond](https://github.com/Sopamo/laravel-filepond) - Laravel backend module for filepond uploads
@@ -968,6 +972,10 @@
 ## windows 
 
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
+
+## xml 
+
+- [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
 
 
 ## License
