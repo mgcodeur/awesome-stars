@@ -329,6 +329,7 @@
 
 ## TypeScript 
 
+- [ectoflow/vue-stripe-js](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
 - [Tiavina22/dash](https://github.com/Tiavina22/dash) - View your GitHub statistics in an elegant and modern way. Get insights into your contributions, languages used, and much more.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [mgcodeur/french-manga-scraper](https://github.com/mgcodeur/french-manga-scraper) - 🇫🇷 French Manga Scraper A modern TypeScript tool to search, explore, and download manga from French sources like ScanVF. Designed to be modular, testable, and easily extensible with additional provide
