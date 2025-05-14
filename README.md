@@ -160,6 +160,8 @@
 
 ## PHP 
 
+- [openai-php/laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
+- [maltekuhr/laravel-gpt](https://github.com/maltekuhr/laravel-gpt) - LaravelGPT: Streamlined integration of OpenAI's ChatGPT (GPT-3.5, GPT-4) into Laravel applications for advanced AI-powered text generation and analysis.
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
 - [mamyraoby/phanisana](https://github.com/mamyraoby/phanisana) - Phanisana is a powerful PHP library that transforms numbers, dates, and times into their full-text equivalents in the Malagasy 🇲🇬 language. Whether you're localizing applications, building educational
 - [byErikas/cache-tags](https://github.com/byErikas/cache-tags) - Allows for Redis/Valkey cache flushing multiple tagged items by a single tag.
