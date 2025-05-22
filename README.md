@@ -90,6 +90,7 @@
 
 ## JavaScript 
 
+- [mdbassit/Coloris](https://github.com/mdbassit/Coloris) - A lightweight and elegant JavaScript color picker. Written in vanilla ES6, no dependencies. Accessible.
 - [oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
