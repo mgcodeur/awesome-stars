@@ -644,6 +644,7 @@
 
 ## others 
 
+- [mdbassit/Coloris](https://github.com/mdbassit/Coloris) - A lightweight and elegant JavaScript color picker. Written in vanilla ES6, no dependencies. Accessible.
 - [tambanivohitra007/OCR_GPT_Helper](https://github.com/tambanivohitra007/OCR_GPT_Helper) - This project is a C# application that combines Optical Character Recognition (OCR) and OpenAI GPT-based API to automatically extract text from images and analyze or answer multiple-choice questions ba
 - [mamyraoby/phanisana](https://github.com/mamyraoby/phanisana) - Phanisana is a powerful PHP library that transforms numbers, dates, and times into their full-text equivalents in the Malagasy 🇲🇬 language. Whether you're localizing applications, building educational
 - [Tiavina22/dash](https://github.com/Tiavina22/dash) - View your GitHub statistics in an elegant and modern way. Get insights into your contributions, languages used, and much more.
