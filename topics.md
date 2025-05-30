@@ -644,6 +644,8 @@
 
 ## others 
 
+- [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
+- [iharena/vue3-number-picker](https://github.com/iharena/vue3-number-picker) - A customizable Vue 3 number input component with increment/decrement buttons, built-in range validation, and long-press adjustment.
 - [mdbassit/Coloris](https://github.com/mdbassit/Coloris) - A lightweight and elegant JavaScript color picker. Written in vanilla ES6, no dependencies. Accessible.
 - [tambanivohitra007/OCR_GPT_Helper](https://github.com/tambanivohitra007/OCR_GPT_Helper) - This project is a C# application that combines Optical Character Recognition (OCR) and OpenAI GPT-based API to automatically extract text from images and analyze or answer multiple-choice questions ba
 - [mamyraoby/phanisana](https://github.com/mamyraoby/phanisana) - Phanisana is a powerful PHP library that transforms numbers, dates, and times into their full-text equivalents in the Malagasy 🇲🇬 language. Whether you're localizing applications, building educational
