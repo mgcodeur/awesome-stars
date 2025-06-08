@@ -68,6 +68,7 @@
 
 ## HTML 
 
+- [iharena/flyx-ui](https://github.com/iharena/flyx-ui) - 
 - [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 - [pryley/star-rating.js](https://github.com/pryley/star-rating.js) - This zero-dependency ES6 module transforms a select with numerical-range values (i.e. 1-5) into a dynamic star rating element.
 - [ireade/Toast.js](https://github.com/ireade/Toast.js) - A library for Toast messages
@@ -333,6 +334,9 @@
 
 ## TypeScript 
 
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+- [iharena/vue3-number-picker](https://github.com/iharena/vue3-number-picker) - A customizable Vue 3 number input component with increment/decrement buttons, built-in range validation, and long-press adjustment.
 - [ectoflow/vue-stripe-js](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
 - [Tiavina22/dash](https://github.com/Tiavina22/dash) - View your GitHub statistics in an elegant and modern way. Get insights into your contributions, languages used, and much more.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
@@ -383,7 +387,6 @@
 
 ## Vue 
 
-- [iharena/vue3-number-picker](https://github.com/iharena/vue3-number-picker) - A customizable Vue 3 number input component with increment/decrement buttons, built-in range validation, and long-press adjustment.
 - [icehaunter/vue3-datepicker](https://github.com/icehaunter/vue3-datepicker) - Simple datepicker component for Vue 3
 - [nuxt-themes/docus](https://github.com/nuxt-themes/docus) - Write beautiful documentations with Nuxt and Markdown.
 - [laravel/breeze](https://github.com/laravel/breeze) - Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.
