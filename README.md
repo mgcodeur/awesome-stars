@@ -59,6 +59,7 @@
 
 ## Go 
 
+- [ashkulz/committers.top](https://github.com/ashkulz/committers.top) - CLI tool which uses the GitHub GraphQL API to rank users according to number of contributions, and corresponding static website.
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
@@ -92,6 +93,10 @@
 
 ## JavaScript 
 
+- [00VOID/flblog](https://github.com/00VOID/flblog) - 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [tiavina-mika/check-password-complexity](https://github.com/tiavina-mika/check-password-complexity) - A simple utility to check password strength and complexity
+- [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [mdbassit/Coloris](https://github.com/mdbassit/Coloris) - A lightweight and elegant JavaScript color picker. Written in vanilla ES6, no dependencies. Accessible.
 - [oussamahamdaoui/forgJs](https://github.com/oussamahamdaoui/forgJs) - ForgJs is a javascript lightweight object validator.
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -334,6 +339,7 @@
 
 ## TypeScript 
 
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [iharena/vue3-number-picker](https://github.com/iharena/vue3-number-picker) - A customizable Vue 3 number input component with increment/decrement buttons, built-in range validation, and long-press adjustment.
