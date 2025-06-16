@@ -80,6 +80,7 @@
 - [others](#others)
 - [php](#php)
 - [postgresql](#postgresql)
+- [productivity](#productivity)
 - [pwa](#pwa)
 - [python](#python)
 - [react](#react)
@@ -835,6 +836,10 @@
 ## postgresql 
 
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
+
+## productivity 
+
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
 ## pwa 
 
