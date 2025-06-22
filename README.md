@@ -93,6 +93,7 @@
 
 ## JavaScript 
 
+- [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
 - [00VOID/flblog](https://github.com/00VOID/flblog) - 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [tiavina-mika/check-password-complexity](https://github.com/tiavina-mika/check-password-complexity) - A simple utility to check password strength and complexity
