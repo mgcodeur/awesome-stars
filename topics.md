@@ -438,6 +438,7 @@
 
 ## javascript 
 
+- [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [tiavina-mika/check-password-complexity](https://github.com/tiavina-mika/check-password-complexity) - A simple utility to check password strength and complexity
 - [iharena/flyx-ui](https://github.com/iharena/flyx-ui) - Laravel Flyx UI provides modern, customizable file uploader UI components built to work with Blade, Vue, React, and Livewire. Designed for easy integration and framework flexibility, Flyx UI brings a 
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -612,6 +613,7 @@
 
 ## markdown 
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -998,6 +1000,7 @@
 
 ## vue 
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [ectoflow/vue-stripe-js](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
 - [wobsoriano/nuxt-proxy](https://github.com/wobsoriano/nuxt-proxy) - Http-proxy middleware for Nuxt 3.
