@@ -33,6 +33,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [es6](#es6)
+- [eslint](#eslint)
 - [facebook](#facebook)
 - [font](#font)
 - [framework](#framework)
@@ -298,6 +299,10 @@
 - [glidejs/glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 
+## eslint 
+
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
+
 ## facebook 
 
 - [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
@@ -325,6 +330,7 @@
 
 ## git 
 
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
