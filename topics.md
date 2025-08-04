@@ -695,6 +695,7 @@
 
 ## others 
 
+- [mgcodeur/laravel-comment](https://github.com/mgcodeur/laravel-comment) - 
 - [antfu/100](https://github.com/antfu/100) - My 100-day project of exploring design, compform, and new things.
 - [antfu/1990-script](https://github.com/antfu/1990-script) - Make your GitHub history back to 1990
 - [mgcodeur/stackfolio](https://github.com/mgcodeur/stackfolio) - 
