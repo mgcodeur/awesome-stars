@@ -149,7 +149,6 @@
 
 ## Others 
 
-- [mgcodeur/laravel-comment](https://github.com/mgcodeur/laravel-comment) - 
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [UniversLaravel/Awesome-Malagasy-Laravel-Projects](https://github.com/UniversLaravel/Awesome-Malagasy-Laravel-Projects) - Awesome Malagasy Laravel Projects is a curated list of Laravel projects developed in Madagascar
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
@@ -175,6 +174,7 @@
 
 ## PHP 
 
+- [mgcodeur/laravel-comment](https://github.com/mgcodeur/laravel-comment) - 
 - [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
 - [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
 - [openai-php/laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
