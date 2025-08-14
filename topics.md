@@ -696,6 +696,7 @@
 
 ## others 
 
+- [yasintqvi/laravel-postman](https://github.com/yasintqvi/laravel-postman) - A powerful package to automatically generate Postman collections from your Laravel routes with intelligent organization and rich documentation capabilities.
 - [mgcodeur/laravel-comment](https://github.com/mgcodeur/laravel-comment) - 
 - [antfu/100](https://github.com/antfu/100) - My 100-day project of exploring design, compform, and new things.
 - [antfu/1990-script](https://github.com/antfu/1990-script) - Make your GitHub history back to 1990
