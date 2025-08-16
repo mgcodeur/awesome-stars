@@ -118,7 +118,6 @@
 - [website](#website)
 - [windows](#windows)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -524,6 +523,7 @@
 
 ## laravel 
 
+- [akaunting/laravel-money](https://github.com/akaunting/laravel-money) - Currency formatting and conversion package for Laravel
 - [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
 - [iharena/flyx-ui](https://github.com/iharena/flyx-ui) - Laravel Flyx UI provides modern, customizable file uploader UI components built to work with Blade, Vue, React, and Livewire. Designed for easy integration and framework flexibility, Flyx UI brings a 
 - [openai-php/laravel](https://github.com/openai-php/laravel) - ⚡️ OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API
@@ -812,6 +812,8 @@
 
 ## php 
 
+- [akaunting/laravel-money](https://github.com/akaunting/laravel-money) - Currency formatting and conversion package for Laravel
+- [spatie/temporary-directory](https://github.com/spatie/temporary-directory) - A simple class to work with a temporary directory
 - [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
 - [maltekuhr/laravel-gpt](https://github.com/maltekuhr/laravel-gpt) - LaravelGPT: Streamlined integration of OpenAI's ChatGPT (GPT-3.5, GPT-4) into Laravel applications for advanced AI-powered text generation and analysis.
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
@@ -991,6 +993,7 @@
 
 ## testing 
 
+- [spatie/temporary-directory](https://github.com/spatie/temporary-directory) - A simple class to work with a temporary directory
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [fluentci-io/services](https://github.com/fluentci-io/services) - Services are processes that run in the background and provide functionality that you might need to test or operate your application in a CI/CD pipeline.
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
@@ -1080,10 +1083,6 @@
 ## xml 
 
 - [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap) - Create and generate sitemaps with ease
-
-## zsh 
-
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 
 
 ## License
