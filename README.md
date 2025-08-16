@@ -174,6 +174,8 @@
 
 ## PHP 
 
+- [akaunting/laravel-money](https://github.com/akaunting/laravel-money) - Currency formatting and conversion package for Laravel
+- [spatie/temporary-directory](https://github.com/spatie/temporary-directory) - A simple class to work with a temporary directory
 - [yasintqvi/laravel-postman](https://github.com/yasintqvi/laravel-postman) - A powerful package to automatically generate Postman collections from your Laravel routes with intelligent organization and rich documentation capabilities.
 - [mgcodeur/laravel-comment](https://github.com/mgcodeur/laravel-comment) - 
 - [jenssegers/agent](https://github.com/jenssegers/agent) - 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
