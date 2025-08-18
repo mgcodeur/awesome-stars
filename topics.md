@@ -697,6 +697,7 @@
 
 ## others 
 
+- [mgcodeur/laravel-translation-loader](https://github.com/mgcodeur/laravel-translation-loader) - Store your translations in the database
 - [yasintqvi/laravel-postman](https://github.com/yasintqvi/laravel-postman) - A powerful package to automatically generate Postman collections from your Laravel routes with intelligent organization and rich documentation capabilities.
 - [mgcodeur/laravel-comment](https://github.com/mgcodeur/laravel-comment) - 
 - [antfu/100](https://github.com/antfu/100) - My 100-day project of exploring design, compform, and new things.
