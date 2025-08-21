@@ -174,7 +174,7 @@
 
 ## PHP 
 
-- [mgcodeur/laravel-translation-loader](https://github.com/mgcodeur/laravel-translation-loader) - Store your translations in the database
+- [mgcodeur/laravel-translation-loader](https://github.com/mgcodeur/laravel-translation-loader) - Manage Laravel translations in a database with version-controlled migration files.
 - [Froiden/laravel-installer](https://github.com/Froiden/laravel-installer) - Installer for Laravel Apps
 - [akaunting/laravel-money](https://github.com/akaunting/laravel-money) - Currency formatting and conversion package for Laravel
 - [spatie/temporary-directory](https://github.com/spatie/temporary-directory) - A simple class to work with a temporary directory
