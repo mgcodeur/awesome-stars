@@ -174,6 +174,7 @@
 
 ## PHP 
 
+- [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
 - [mgcodeur/laravel-translation-loader](https://github.com/mgcodeur/laravel-translation-loader) - Manage Laravel translations in a database with version-controlled migration files.
 - [Froiden/laravel-installer](https://github.com/Froiden/laravel-installer) - Installer for Laravel Apps
 - [akaunting/laravel-money](https://github.com/akaunting/laravel-money) - Currency formatting and conversion package for Laravel
