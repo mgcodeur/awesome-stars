@@ -697,6 +697,7 @@
 
 ## others 
 
+- [mgcodeur/laravel-permission-plugin](https://github.com/mgcodeur/laravel-permission-plugin) - A plugin for spatie/laravel-permission to manage roles & permissions through migrations.
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
 - [mgcodeur/laravel-translation-loader](https://github.com/mgcodeur/laravel-translation-loader) - Manage Laravel translations in a database with version-controlled migration files.
