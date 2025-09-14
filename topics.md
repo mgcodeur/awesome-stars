@@ -81,6 +81,7 @@
 - [open-source](#open-source)
 - [openai](#openai)
 - [others](#others)
+- [package-manager](#package-manager)
 - [php](#php)
 - [postgresql](#postgresql)
 - [productivity](#productivity)
@@ -458,6 +459,7 @@
 
 ## javascript 
 
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [tiavina-mika/check-password-complexity](https://github.com/tiavina-mika/check-password-complexity) - A simple utility to check password strength and complexity
 - [iharena/flyx-ui](https://github.com/iharena/flyx-ui) - Laravel Flyx UI provides modern, customizable file uploader UI components built to work with Blade, Vue, React, and Livewire. Designed for easy integration and framework flexibility, Flyx UI brings a 
@@ -666,11 +668,13 @@
 
 ## node 
 
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [ilearnio/module-alias](https://github.com/ilearnio/module-alias) - Register aliases of directories and custom module paths in Node
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 
 ## nodejs 
 
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [ilearnio/module-alias](https://github.com/ilearnio/module-alias) - Register aliases of directories and custom module paths in Node
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
 - [npkgz/cli-progress](https://github.com/npkgz/cli-progress) - :hourglass: easy to use progress-bar for command-line/terminal applications
@@ -680,6 +684,7 @@
 
 ## npm 
 
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 
 ## open-source 
@@ -697,6 +702,7 @@
 
 ## others 
 
+- [jerrywu001/vue3-toastify](https://github.com/jerrywu001/vue3-toastify) - 🎉 Vue3-Toastify allows you to add notifications to your app with ease.
 - [mgcodeur/laravel-permission-plugin](https://github.com/mgcodeur/laravel-permission-plugin) - A plugin for spatie/laravel-permission to manage roles & permissions through migrations.
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
@@ -814,6 +820,10 @@
 - [mgcodeur/laravel-media](https://github.com/mgcodeur/laravel-media) - Media upload package laravel
 - [eminiarts/nova-permissions](https://github.com/eminiarts/nova-permissions) - Laravel Nova Grouped Permissions
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+
+## package-manager 
+
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 
 ## php 
 
