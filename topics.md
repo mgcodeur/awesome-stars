@@ -702,6 +702,8 @@
 
 ## others 
 
+- [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
+- [mgcodeur/vue-bottom-sheet](https://github.com/mgcodeur/vue-bottom-sheet) - 🔥 A nice clean and touch-friendly bottom sheet component based on Vue.js and Hammer.js for Vue 3
 - [jerrywu001/vue3-toastify](https://github.com/jerrywu001/vue3-toastify) - 🎉 Vue3-Toastify allows you to add notifications to your app with ease.
 - [mgcodeur/laravel-permission-plugin](https://github.com/mgcodeur/laravel-permission-plugin) - A plugin for spatie/laravel-permission to manage roles & permissions through migrations.
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
