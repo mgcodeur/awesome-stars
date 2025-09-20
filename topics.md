@@ -780,7 +780,7 @@
 - [wctsai20002/navicat-refresh](https://github.com/wctsai20002/navicat-refresh) - Reset Navicat Premium 17 trial
 - [PacktPublishing/High-Performance-with-Laravel-Octane](https://github.com/PacktPublishing/High-Performance-with-Laravel-Octane) - High Performance with Laravel Octane, published by Packt
 - [joecampo/random-user-agent](https://github.com/joecampo/random-user-agent) - Generate real random user-agents
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [Nikoms/clean-architecture-example](https://github.com/Nikoms/clean-architecture-example) - 
 - [bdelespierre/laravel-clean-architecture-demo](https://github.com/bdelespierre/laravel-clean-architecture-demo) - 
 - [mgcodeur/laravel-superlogger](https://github.com/mgcodeur/laravel-superlogger) - 
