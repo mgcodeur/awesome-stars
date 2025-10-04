@@ -111,6 +111,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ui](#ui)
+- [visualization](#visualization)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1054,6 +1055,10 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
 - [DarkaOnLine/L5-Swagger](https://github.com/DarkaOnLine/L5-Swagger) - OpenApi or Swagger integration to Laravel
+
+## visualization 
+
+- [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 
 ## vue 
 
