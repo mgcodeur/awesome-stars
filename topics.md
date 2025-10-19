@@ -324,6 +324,7 @@
 
 ## eslint 
 
+- [antfu/nuxt-module-eslint-config](https://github.com/antfu/nuxt-module-eslint-config) - Project-aware ESLint flat config for Nuxt.
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 
 ## facebook 
