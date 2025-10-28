@@ -673,7 +673,7 @@
 
 ## nextjs 
 
-- [Idee8/ShipFree](https://github.com/Idee8/ShipFree) - Open Source Next.js Saas Boilerplate Alternative to ShipFast
+- [revokslab/ShipFree](https://github.com/revokslab/ShipFree) - Open Source Next.js Saas Boilerplate Alternative to ShipFast
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 
 ## node 
@@ -1041,7 +1041,7 @@
 - [iharena/flyx-ui](https://github.com/iharena/flyx-ui) - Laravel Flyx UI provides modern, customizable file uploader UI components built to work with Blade, Vue, React, and Livewire. Designed for easy integration and framework flexibility, Flyx UI brings a 
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
-- [Idee8/ShipFree](https://github.com/Idee8/ShipFree) - Open Source Next.js Saas Boilerplate Alternative to ShipFast
+- [revokslab/ShipFree](https://github.com/revokslab/ShipFree) - Open Source Next.js Saas Boilerplate Alternative to ShipFast
 - [jsrepojs/jsrepo](https://github.com/jsrepojs/jsrepo) - ♻️ The best way to reuse your code.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
