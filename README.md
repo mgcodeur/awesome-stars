@@ -381,7 +381,7 @@
 - [wobsoriano/nuxt-proxy](https://github.com/wobsoriano/nuxt-proxy) - Http-proxy middleware for Nuxt 3.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
-- [Idee8/ShipFree](https://github.com/Idee8/ShipFree) - Open Source Next.js Saas Boilerplate Alternative to ShipFast
+- [revokslab/ShipFree](https://github.com/revokslab/ShipFree) - Open Source Next.js Saas Boilerplate Alternative to ShipFast
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [TaTo30/vue-pdf](https://github.com/TaTo30/vue-pdf) - PDF component for Vue 3
 - [jsrepojs/jsrepo](https://github.com/jsrepojs/jsrepo) - ♻️ The best way to reuse your code.
