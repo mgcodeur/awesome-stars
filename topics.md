@@ -418,7 +418,6 @@
 - [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
-- [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way https://backdropbuild.com/builds/v4/fluentci
 - [julkwel/madagascar-map](https://github.com/julkwel/madagascar-map) - Liste des régions , commune , fokontany Madagascar
 - [LarsWiegers/laravel-translations-checker](https://github.com/LarsWiegers/laravel-translations-checker) - Never worry about missing translations again! Use the translations checker.
 - [svenluijten/artisan-view](https://github.com/svenluijten/artisan-view) - 👀 Manage your views in Laravel projects through artisan
