@@ -541,6 +541,8 @@
 
 ## laravel 
 
+- [spatie/laravel-database-mail-templates](https://github.com/spatie/laravel-database-mail-templates) - Render Laravel mailables based on a mail template stored in the database
+- [spatie/laravel-view-models](https://github.com/spatie/laravel-view-models) - View models in Laravel
 - [Froiden/laravel-installer](https://github.com/Froiden/laravel-installer) - Installer for Laravel Apps
 - [akaunting/laravel-money](https://github.com/akaunting/laravel-money) - Currency formatting and conversion package for Laravel
 - [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
@@ -718,6 +720,8 @@
 
 ## others 
 
+- [spatie/laravel-stats](https://github.com/spatie/laravel-stats) - Easily track application stats like orders, subscriptions and users and their change over time
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) - Check the health of your Laravel app
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [envato1/vendura-sass-multi-tenant-full-docs](https://github.com/envato1/vendura-sass-multi-tenant-full-docs) - 
 - [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
@@ -846,6 +850,9 @@
 
 ## php 
 
+- [spatie/laravel-database-mail-templates](https://github.com/spatie/laravel-database-mail-templates) - Render Laravel mailables based on a mail template stored in the database
+- [spatie/image](https://github.com/spatie/image) - Manipulate images with an expressive API
+- [spatie/laravel-view-models](https://github.com/spatie/laravel-view-models) - View models in Laravel
 - [akaunting/laravel-money](https://github.com/akaunting/laravel-money) - Currency formatting and conversion package for Laravel
 - [spatie/temporary-directory](https://github.com/spatie/temporary-directory) - A simple class to work with a temporary directory
 - [spatie/laravel-feed](https://github.com/spatie/laravel-feed) - Easily generate RSS feeds
