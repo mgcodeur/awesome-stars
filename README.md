@@ -178,6 +178,11 @@
 
 ## PHP 
 
+- [spatie/laravel-database-mail-templates](https://github.com/spatie/laravel-database-mail-templates) - Render Laravel mailables based on a mail template stored in the database
+- [spatie/laravel-stats](https://github.com/spatie/laravel-stats) - Easily track application stats like orders, subscriptions and users and their change over time
+- [spatie/image](https://github.com/spatie/image) - Manipulate images with an expressive API
+- [spatie/laravel-health](https://github.com/spatie/laravel-health) - Check the health of your Laravel app
+- [spatie/laravel-view-models](https://github.com/spatie/laravel-view-models) - View models in Laravel
 - [mgcodeur/laravel-permission-plugin](https://github.com/mgcodeur/laravel-permission-plugin) - A plugin for spatie/laravel-permission to manage roles & permissions through migrations.
 - [google/recaptcha](https://github.com/google/recaptcha) - PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
 - [mgcodeur/laravel-translation-loader](https://github.com/mgcodeur/laravel-translation-loader) - Manage Laravel translations in a database with version-controlled migration files.
