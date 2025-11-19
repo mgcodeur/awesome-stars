@@ -541,6 +541,7 @@
 
 ## laravel 
 
+- [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
 - [spatie/laravel-database-mail-templates](https://github.com/spatie/laravel-database-mail-templates) - Render Laravel mailables based on a mail template stored in the database
 - [spatie/laravel-view-models](https://github.com/spatie/laravel-view-models) - View models in Laravel
 - [Froiden/laravel-installer](https://github.com/Froiden/laravel-installer) - Installer for Laravel Apps
@@ -850,6 +851,7 @@
 
 ## php 
 
+- [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
 - [spatie/laravel-database-mail-templates](https://github.com/spatie/laravel-database-mail-templates) - Render Laravel mailables based on a mail template stored in the database
 - [spatie/image](https://github.com/spatie/image) - Manipulate images with an expressive API
 - [spatie/laravel-view-models](https://github.com/spatie/laravel-view-models) - View models in Laravel
