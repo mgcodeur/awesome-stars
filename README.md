@@ -391,7 +391,7 @@
 - [revokslab/ShipFree](https://github.com/revokslab/ShipFree) - Open Source Next.js Saas Boilerplate Alternative to ShipFast
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [TaTo30/vue-pdf](https://github.com/TaTo30/vue-pdf) - PDF component for Vue 3
-- [jsrepojs/jsrepo](https://github.com/jsrepojs/jsrepo) - ♻️ The best way to reuse your code.
+- [jsrepojs/jsrepo](https://github.com/jsrepojs/jsrepo) - 🛸 The modern registry toolchain.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
