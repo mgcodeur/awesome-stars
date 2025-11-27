@@ -24,6 +24,7 @@
 - [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
+- [command-line](#command-line)
 - [continuous-integration](#continuous-integration)
 - [css](#css)
 - [data-science](#data-science)
@@ -231,6 +232,12 @@
 ## cms 
 
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
+
+## command-line 
+
+- [tsirysndr/tunein-cli](https://github.com/tsirysndr/tunein-cli) - Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
+- [npkgz/cli-progress](https://github.com/npkgz/cli-progress) - :hourglass: easy to use progress-bar for command-line/terminal applications
+- [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 
 ## continuous-integration 
 
