@@ -178,6 +178,7 @@
 
 ## PHP 
 
+- [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
 - [spatie/laravel-database-mail-templates](https://github.com/spatie/laravel-database-mail-templates) - Render Laravel mailables based on a mail template stored in the database
 - [spatie/laravel-stats](https://github.com/spatie/laravel-stats) - Easily track application stats like orders, subscriptions and users and their change over time
