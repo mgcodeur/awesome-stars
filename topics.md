@@ -154,6 +154,7 @@
 
 ## api 
 
+- [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [dedoc/scramble](https://github.com/dedoc/scramble) - Modern Laravel OpenAPI (Swagger) documentation generator. No PHPDoc annotations required.
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
@@ -544,6 +545,7 @@
 
 ## language 
 
+- [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [spatie/laravel-translation-loader](https://github.com/spatie/laravel-translation-loader) - Store your translations in the database or other sources
 - [codezero-be/laravel-unique-translation](https://github.com/codezero-be/laravel-unique-translation) - ⭐️ Check if a translated value in a JSON column is unique in the database.
 
@@ -728,6 +730,7 @@
 
 ## openai 
 
+- [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [maltekuhr/laravel-gpt](https://github.com/maltekuhr/laravel-gpt) - LaravelGPT: Streamlined integration of OpenAI's ChatGPT (GPT-3.5, GPT-4) into Laravel applications for advanced AI-powered text generation and analysis.
 - [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 
@@ -863,6 +866,7 @@
 
 ## php 
 
+- [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
 - [spatie/laravel-database-mail-templates](https://github.com/spatie/laravel-database-mail-templates) - Render Laravel mailables based on a mail template stored in the database
 - [spatie/image](https://github.com/spatie/image) - Manipulate images with an expressive API
