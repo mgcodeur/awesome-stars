@@ -145,6 +145,7 @@
 
 ## android 
 
+- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 
 ## angular 
@@ -482,6 +483,7 @@
 
 ## java 
 
+- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
 
 ## javascript 
