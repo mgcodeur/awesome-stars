@@ -149,7 +149,7 @@
 
 ## MDX 
 
-- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/allcontributors.org](https://github.com/all-contributors/allcontributors.org) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [meilisearch/documentation](https://github.com/meilisearch/documentation) - Meilisearch documentation
 
 ## Others 
