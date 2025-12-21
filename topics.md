@@ -558,6 +558,7 @@
 
 ## laravel 
 
+- [spatie/laravel-model-status](https://github.com/spatie/laravel-model-status) - Easily add statuses to your models
 - [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
 - [spatie/laravel-database-mail-templates](https://github.com/spatie/laravel-database-mail-templates) - Render Laravel mailables based on a mail template stored in the database
 - [spatie/laravel-view-models](https://github.com/spatie/laravel-view-models) - View models in Laravel
@@ -843,7 +844,6 @@
 - [DTC-Formation/symfony-routing-mgcodeur](https://github.com/DTC-Formation/symfony-routing-mgcodeur) - symfony-routing-mgcodeur created by GitHub Classroom
 - [mgcodeur/boite-dev-malagasy](https://github.com/mgcodeur/boite-dev-malagasy) - 
 - [mpociot/versionable](https://github.com/mpociot/versionable) - Laravel Model versioning made easy
-- [mgcodeur/laravel-nested-category](https://github.com/mgcodeur/laravel-nested-category) - 
 - [nazonohito51/clean-architecture-sample](https://github.com/nazonohito51/clean-architecture-sample) - Implementation of Clean Architecture by Laravel.
 - [Grafikart/CSS3-Loaders](https://github.com/Grafikart/CSS3-Loaders) - 
 - [Grafikart/Grafikart.fr](https://github.com/Grafikart/Grafikart.fr) - Dépôt pour la nouvelle version de Grafikart.fr
@@ -870,6 +870,7 @@
 
 ## php 
 
+- [spatie/laravel-model-status](https://github.com/spatie/laravel-model-status) - Easily add statuses to your models
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
 - [spatie/laravel-database-mail-templates](https://github.com/spatie/laravel-database-mail-templates) - Render Laravel mailables based on a mail template stored in the database
