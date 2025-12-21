@@ -181,6 +181,7 @@
 
 ## PHP 
 
+- [spatie/laravel-model-status](https://github.com/spatie/laravel-model-status) - Easily add statuses to your models
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
 - [spatie/laravel-database-mail-templates](https://github.com/spatie/laravel-database-mail-templates) - Render Laravel mailables based on a mail template stored in the database
@@ -290,7 +291,6 @@
 - [mpociot/laravel-face-auth](https://github.com/mpociot/laravel-face-auth) - Laravel Face authentication
 - [lazychaser/laravel-nestedset](https://github.com/lazychaser/laravel-nestedset) - Effective tree structures in Laravel 4-8
 - [laravel/telescope](https://github.com/laravel/telescope) - An elegant debug assistant for the Laravel framework.
-- [mgcodeur/laravel-nested-category](https://github.com/mgcodeur/laravel-nested-category) - 
 - [nazonohito51/clean-architecture-sample](https://github.com/nazonohito51/clean-architecture-sample) - Implementation of Clean Architecture by Laravel.
 - [statikbe/laravel-filament-flexible-content-blocks](https://github.com/statikbe/laravel-filament-flexible-content-blocks) - The Laravel Filament Flexible Content Blocks package helps you to easily create content in Filament for any model, with predefined or custom blocks, and foreach block an extendable Blade view componen
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
