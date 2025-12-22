@@ -740,6 +740,7 @@
 
 ## others 
 
+- [mgcodeur/laravel-categorizable](https://github.com/mgcodeur/laravel-categorizable) - Laravel Categorizable is a lightweight package that makes it easy to manage categories and subcategories on your Eloquent models.
 - [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
 - [spatie/laravel-stats](https://github.com/spatie/laravel-stats) - Easily track application stats like orders, subscriptions and users and their change over time
 - [spatie/laravel-health](https://github.com/spatie/laravel-health) - Check the health of your Laravel app
