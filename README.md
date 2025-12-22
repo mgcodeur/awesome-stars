@@ -181,6 +181,7 @@
 
 ## PHP 
 
+- [mgcodeur/laravel-categorizable](https://github.com/mgcodeur/laravel-categorizable) - Laravel Categorizable is a lightweight package that makes it easy to manage categories and subcategories on your Eloquent models.
 - [spatie/laravel-model-status](https://github.com/spatie/laravel-model-status) - Easily add statuses to your models
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
