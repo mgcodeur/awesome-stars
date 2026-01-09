@@ -430,7 +430,7 @@
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - [nuxt-modules/apollo](https://github.com/nuxt-modules/apollo) - Nuxt.js module to use Vue-Apollo. The Apollo integration for GraphQL.
 - [tsirysndr/mvola-node](https://github.com/tsirysndr/mvola-node) - Node.js library for the MVola API
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [shufo/vscode-blade-formatter](https://github.com/shufo/vscode-blade-formatter) - An opinionated Blade file formatter for VSCode
 - [adonisjs/core](https://github.com/adonisjs/core) - AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more.
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
