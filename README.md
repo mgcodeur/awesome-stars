@@ -68,7 +68,7 @@
 
 - [ashkulz/committers.top](https://github.com/ashkulz/committers.top) - CLI tool which uses the GitHub GraphQL API to rank users according to number of contributions, and corresponding static website.
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
-- [dagger/dagger](https://github.com/dagger/dagger) - The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud.
+- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
@@ -393,7 +393,7 @@
 - [wobsoriano/nuxt-proxy](https://github.com/wobsoriano/nuxt-proxy) - Http-proxy middleware for Nuxt 3.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
-- [revokslab/ShipFree](https://github.com/revokslab/ShipFree) - Open Source Next.js Saas Boilerplate Alternative to ShipFast
+- [revokslab/ShipFree](https://github.com/revokslab/ShipFree) - Open Source Next.js Saas Boilerplate
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [TaTo30/vue-pdf](https://github.com/TaTo30/vue-pdf) - PDF component for Vue 3
 - [jsrepojs/jsrepo](https://github.com/jsrepojs/jsrepo) - 🛸 The modern registry toolchain.
