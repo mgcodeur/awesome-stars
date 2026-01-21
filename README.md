@@ -99,6 +99,7 @@
 
 ## JavaScript 
 
+- [antfu/userscript-clean-twitter](https://github.com/antfu/userscript-clean-twitter) - Bring back the peace on Twitter
 - [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
 - [locomotivemtl/locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 🛤 Detection of elements in viewport & smooth scrolling with parallax.
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
@@ -260,7 +261,7 @@
 - [bdelespierre/laravel-clean-architecture-demo](https://github.com/bdelespierre/laravel-clean-architecture-demo) - 
 - [mgcodeur/laravel-superlogger](https://github.com/mgcodeur/laravel-superlogger) - 
 - [LarsWiegers/laravel-translations-checker](https://github.com/LarsWiegers/laravel-translations-checker) - Never worry about missing translations again! Use the translations checker.
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [mikebronner/laravel-model-caching](https://github.com/mikebronner/laravel-model-caching) - Eloquent model-caching made easy.
 - [svenluijten/artisan-view](https://github.com/svenluijten/artisan-view) - 👀 Manage your views in Laravel projects through artisan
 - [elipZis/laravel-cacheable-model](https://github.com/elipZis/laravel-cacheable-model) - ⚙️ Automatically cache Laravel Eloquent models by queries
