@@ -115,6 +115,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ui](#ui)
+- [userscript](#userscript)
 - [video](#video)
 - [visualization](#visualization)
 - [vue](#vue)
@@ -355,7 +356,7 @@
 
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
@@ -607,7 +608,7 @@
 - [mostafaznv/nova-ckeditor](https://github.com/mostafaznv/nova-ckeditor) - CkEditor 5 Field for Laravel Nova with Media & Snippet Browsers
 - [cknow/laravel-money](https://github.com/cknow/laravel-money) - Laravel Money.
 - [LarsWiegers/laravel-translations-checker](https://github.com/LarsWiegers/laravel-translations-checker) - Never worry about missing translations again! Use the translations checker.
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [mikebronner/laravel-model-caching](https://github.com/mikebronner/laravel-model-caching) - Eloquent model-caching made easy.
 - [svenluijten/artisan-view](https://github.com/svenluijten/artisan-view) - 👀 Manage your views in Laravel projects through artisan
 - [elipZis/laravel-cacheable-model](https://github.com/elipZis/laravel-cacheable-model) - ⚙️ Automatically cache Laravel Eloquent models by queries
@@ -903,7 +904,7 @@
 - [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
 - [404labfr/laravel-impersonate](https://github.com/404labfr/laravel-impersonate) - Laravel Impersonate is a plugin that allows you to authenticate as your users.
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
-- [laravel/framework](https://github.com/laravel/framework) - The Laravel Framework.
+- [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
 - [elipZis/laravel-cacheable-model](https://github.com/elipZis/laravel-cacheable-model) - ⚙️ Automatically cache Laravel Eloquent models by queries
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
 - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
@@ -1078,6 +1079,7 @@
 
 ## twitter 
 
+- [antfu/userscript-clean-twitter](https://github.com/antfu/userscript-clean-twitter) - Bring back the peace on Twitter
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
 
 ## typescript 
@@ -1105,6 +1107,10 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
 - [DarkaOnLine/L5-Swagger](https://github.com/DarkaOnLine/L5-Swagger) - OpenApi or Swagger integration to Laravel
+
+## userscript 
+
+- [antfu/userscript-clean-twitter](https://github.com/antfu/userscript-clean-twitter) - Bring back the peace on Twitter
 
 ## video 
 
