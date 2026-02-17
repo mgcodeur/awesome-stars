@@ -348,7 +348,7 @@
 - [tsirysndr/tunein-cli](https://github.com/tsirysndr/tunein-cli) - Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
 - [fluentci-io/services](https://github.com/fluentci-io/services) - Services are processes that run in the background and provide functionality that you might need to test or operate your application in a CI/CD pipeline.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-- [Davidflogar/phpl](https://github.com/Davidflogar/phpl) - A php interpreter written in rust
+- [D4vyCode/phpl](https://github.com/D4vyCode/phpl) - A php interpreter written in rust
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [tsirysndr/superviseur](https://github.com/tsirysndr/superviseur) - Define and run multi-service applications on isolated environments with Nix or Docker ❄️🐋 🛠️ 💻 ✨
 
