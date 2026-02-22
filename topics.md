@@ -746,6 +746,8 @@
 
 ## others 
 
+- [Locryne/Netflix-Clone](https://github.com/Locryne/Netflix-Clone) - 
+- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python. It is fast, lightweight, easy-to-use and easy-to-extend.
 - [Ara-Archives/scan-vf-scraper](https://github.com/Ara-Archives/scan-vf-scraper) - A CLI scraper for extracting manga from ScanVF using Playwright.
 - [mgcodeur/laravel-categorizable](https://github.com/mgcodeur/laravel-categorizable) - Laravel Categorizable is a lightweight package that makes it easy to manage categories and subcategories on your Eloquent models.
