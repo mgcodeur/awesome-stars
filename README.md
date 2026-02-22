@@ -157,6 +157,7 @@
 
 ## Others 
 
+- [Locryne/Netflix-Clone](https://github.com/Locryne/Netflix-Clone) - 
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [UniversLaravel/Awesome-Malagasy-Laravel-Projects](https://github.com/UniversLaravel/Awesome-Malagasy-Laravel-Projects) - Awesome Malagasy Laravel Projects is a curated list of Laravel projects developed in Madagascar
 - [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
@@ -328,6 +329,7 @@
 
 ## Python 
 
+- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
