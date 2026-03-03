@@ -746,6 +746,7 @@
 
 ## others 
 
+- [Ara-Archives/nautiljon-scraper](https://github.com/Ara-Archives/nautiljon-scraper) - Nautiljon scraper to automatically collect and format anime, manga, and character data.
 - [Locryne/Netflix-Clone](https://github.com/Locryne/Netflix-Clone) - 
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python. It is fast, lightweight, easy-to-use and easy-to-extend.
