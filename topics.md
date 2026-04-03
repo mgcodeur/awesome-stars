@@ -972,6 +972,7 @@
 
 ## react 
 
+- [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
@@ -990,6 +991,7 @@
 
 ## reactjs 
 
+- [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
 
 ## ruby 
@@ -1146,7 +1148,7 @@
 - [ectoflow/vue-stripe-js](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
 - [wobsoriano/nuxt-proxy](https://github.com/wobsoriano/nuxt-proxy) - Http-proxy middleware for Nuxt 3.
 - [icehaunter/vue3-datepicker](https://github.com/icehaunter/vue3-datepicker) - Simple datepicker component for Vue 3
-- [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
+- [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [TaTo30/vue-pdf](https://github.com/TaTo30/vue-pdf) - PDF component for Vue 3
 - [nuxt/awesome](https://github.com/nuxt/awesome) - A curated list of awesome things related to Nuxt.js
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
