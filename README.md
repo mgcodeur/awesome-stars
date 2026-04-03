@@ -400,7 +400,7 @@
 - [mgcodeur/french-manga-scraper](https://github.com/mgcodeur/french-manga-scraper) - 🇫🇷 French Manga Scraper A modern TypeScript tool to search, explore, and download manga from French sources like ScanVF. Designed to be modular, testable, and easily extensible with additional provide
 - [wobsoriano/nuxt-proxy](https://github.com/wobsoriano/nuxt-proxy) - Http-proxy middleware for Nuxt 3.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
-- [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
+- [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
 - [revokslab/ShipFree](https://github.com/revokslab/ShipFree) - Open Source Next.js Saas Boilerplate
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [jsrepojs/jsrepo](https://github.com/jsrepojs/jsrepo) - 🛸 The modern registry toolchain.
