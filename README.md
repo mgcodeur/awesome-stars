@@ -265,7 +265,7 @@
 - [mgcodeur/laravel-superlogger](https://github.com/mgcodeur/laravel-superlogger) - 
 - [LarsWiegers/laravel-translations-checker](https://github.com/LarsWiegers/laravel-translations-checker) - Never worry about missing translations again! Use the translations checker.
 - [laravel/framework](https://github.com/laravel/framework) - Laravel is a web application framework with expressive, elegant syntax.
-- [mikebronner/laravel-model-caching](https://github.com/mikebronner/laravel-model-caching) - Eloquent model-caching made easy.
+- [mike-bronner/laravel-model-caching](https://github.com/mike-bronner/laravel-model-caching) - Eloquent model-caching made easy.
 - [svenluijten/artisan-view](https://github.com/svenluijten/artisan-view) - 👀 Manage your views in Laravel projects through artisan
 - [elipZis/laravel-cacheable-model](https://github.com/elipZis/laravel-cacheable-model) - ⚙️ Automatically cache Laravel Eloquent models by queries
 - [artesaos/seotools](https://github.com/artesaos/seotools) - SEO Tools for Laravel
