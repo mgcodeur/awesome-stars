@@ -750,6 +750,7 @@
 
 ## others 
 
+- [mgcodeur/soaci-video-downloader](https://github.com/mgcodeur/soaci-video-downloader) - 
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
 - [Ara-Archives/nautiljon-scraper](https://github.com/Ara-Archives/nautiljon-scraper) - Nautiljon scraper to automatically collect and format anime, manga, and character data.
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
