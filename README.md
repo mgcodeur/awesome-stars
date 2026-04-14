@@ -378,6 +378,7 @@
 
 ## TypeScript 
 
+- [mgcodeur/soaci-video-downloader](https://github.com/mgcodeur/soaci-video-downloader) - 
 - [Ara-Archives/nautiljon-scraper](https://github.com/Ara-Archives/nautiljon-scraper) - Nautiljon scraper to automatically collect and format anime, manga, and character data.
 - [Ara-Archives/scan-vf-scraper](https://github.com/Ara-Archives/scan-vf-scraper) - A CLI scraper for extracting manga from ScanVF using Playwright.
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
