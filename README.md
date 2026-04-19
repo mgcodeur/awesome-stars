@@ -184,6 +184,7 @@
 
 ## PHP 
 
+- [bavix/laravel-wallet](https://github.com/bavix/laravel-wallet) - It's easy to work with a virtual wallet
 - [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python. It is fast, lightweight, easy-to-use and easy-to-extend.
 - [mgcodeur/laravel-categorizable](https://github.com/mgcodeur/laravel-categorizable) - Laravel Categorizable is a lightweight package that makes it easy to manage categories and subcategories on your Eloquent models.
 - [spatie/laravel-model-status](https://github.com/spatie/laravel-model-status) - Easily add statuses to your models
