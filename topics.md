@@ -564,6 +564,9 @@
 
 ## laravel 
 
+- [MedicOneSystems/livewire-datatables](https://github.com/MedicOneSystems/livewire-datatables) - Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS
+- [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid) - ⚡ PowerGrid generates modern, powerful and easy-to-customize data tables using Laravel Livewire.
+- [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire
 - [bavix/laravel-wallet](https://github.com/bavix/laravel-wallet) - It's easy to work with a virtual wallet
 - [spatie/laravel-model-status](https://github.com/spatie/laravel-model-status) - Easily add statuses to your models
 - [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
@@ -750,6 +753,7 @@
 
 ## others 
 
+- [u3u/prettier-config](https://github.com/u3u/prettier-config) - 🎨 The most perfect Prettier config
 - [mgcodeur/soaci-video-downloader](https://github.com/mgcodeur/soaci-video-downloader) - 
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
 - [Ara-Archives/nautiljon-scraper](https://github.com/Ara-Archives/nautiljon-scraper) - Nautiljon scraper to automatically collect and format anime, manga, and character data.
@@ -828,7 +832,7 @@
 - [mgcodeur/ultimate-manga-scraper](https://github.com/mgcodeur/ultimate-manga-scraper) - 
 - [mgcodeur/laravel-currency-converter](https://github.com/mgcodeur/laravel-currency-converter) - Laravel Currency Converter: Effortlessly convert currencies in your Laravel applications, no API key required. It's fast, easy, and completely free.
 - [thonymg/json-graph](https://github.com/thonymg/json-graph) - json-graph: Language inspired by the syntax and structure of GraphQL, one can efficiently create and structure JSON objects, providing a more intuitive and streamlined approach to handling and manipul
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
+- [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [tsirysndr/mada](https://github.com/tsirysndr/mada) - Search for regions, districts, communes and fokontany right from your Terminal
 - [lorisleiva/laravel-actions](https://github.com/lorisleiva/laravel-actions) - ⚡️ Laravel components that take care of one specific task
 - [lepikhinb/laravel-fluent](https://github.com/lepikhinb/laravel-fluent) - 
@@ -1056,12 +1060,14 @@
 
 ## tailwind 
 
+- [MedicOneSystems/livewire-datatables](https://github.com/MedicOneSystems/livewire-datatables) - Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [lazymozek/gulp-with-tailwindcss](https://github.com/lazymozek/gulp-with-tailwindcss) - Gulp with TailwindCSS Starter Kit
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 
 ## tailwindcss 
 
+- [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid) - ⚡ PowerGrid generates modern, powerful and easy-to-customize data tables using Laravel Livewire.
 - [una-ui/una-ui](https://github.com/una-ui/una-ui) - The Atomic UI framework for Nuxt, powered by Unocss engine 💛
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [lazymozek/gulp-with-tailwindcss](https://github.com/lazymozek/gulp-with-tailwindcss) - Gulp with TailwindCSS Starter Kit
