@@ -753,6 +753,7 @@
 
 ## others 
 
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [u3u/prettier-config](https://github.com/u3u/prettier-config) - 🎨 The most perfect Prettier config
 - [mgcodeur/soaci-video-downloader](https://github.com/mgcodeur/soaci-video-downloader) - 
 - [bchiang7/v4](https://github.com/bchiang7/v4) - Fourth iteration of my personal website built with Gatsby
