@@ -241,7 +241,7 @@
 - [thetribeio/php-coding-standard](https://github.com/thetribeio/php-coding-standard) - PHP coding standard
 - [wotzebra/laravel-swagger-ui](https://github.com/wotzebra/laravel-swagger-ui) - Add Swagger UI to a Laravel application.
 - [Tucker-Eric/EloquentFilter](https://github.com/Tucker-Eric/EloquentFilter) - An Eloquent Way To Filter Laravel Models And Their Relationships
-- [takielias/tablar](https://github.com/takielias/tablar) - Tablar: A Laravel blade starter kit Based on Tabler HTML Template + Vite. https://tablar.ebuz.xyz/docs
+- [takielias/tablar](https://github.com/takielias/tablar) - Tablar: A Laravel blade starter kit Based on Tabler HTML Template + Vite
 - [msafadi/laravel-eloquent-join-with](https://github.com/msafadi/laravel-eloquent-join-with) - Laravel Eloquent JoinWith Relationships
 - [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development
 - [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel
