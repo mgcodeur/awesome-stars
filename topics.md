@@ -243,6 +243,7 @@
 
 ## cms 
 
+- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 
 ## command-line 
@@ -570,6 +571,7 @@
 
 ## laravel 
 
+- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
 - [MedicOneSystems/livewire-datatables](https://github.com/MedicOneSystems/livewire-datatables) - Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS
 - [Power-Components/livewire-powergrid](https://github.com/Power-Components/livewire-powergrid) - ⚡ PowerGrid generates modern, powerful and easy-to-customize data tables using Laravel Livewire.
 - [rappasoft/laravel-livewire-tables](https://github.com/rappasoft/laravel-livewire-tables) - A dynamic table component for Laravel Livewire
@@ -759,6 +761,7 @@
 
 ## others 
 
+- [filamentphp/tables](https://github.com/filamentphp/tables) - [READ ONLY] Subtree split of the Filament Table Builder (see filamentphp/filament)
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [u3u/prettier-config](https://github.com/u3u/prettier-config) - 🎨 The most perfect Prettier config
 - [mgcodeur/soaci-video-downloader](https://github.com/mgcodeur/soaci-video-downloader) - 
