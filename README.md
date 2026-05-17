@@ -183,6 +183,7 @@
 
 ## PHP 
 
+- [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
 - [filamentphp/tables](https://github.com/filamentphp/tables) - [READ ONLY] Subtree split of the Filament Table Builder (see filamentphp/filament)
 - [MedicOneSystems/livewire-datatables](https://github.com/MedicOneSystems/livewire-datatables) - Advanced datatables using Laravel, Livewire, Tailwind CSS and Alpine JS
