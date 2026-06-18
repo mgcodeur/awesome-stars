@@ -769,6 +769,7 @@
 
 ## others 
 
+- [mgcodeur/shinobi-inventory](https://github.com/mgcodeur/shinobi-inventory) - 
 - [filamentphp/tables](https://github.com/filamentphp/tables) - [READ ONLY] Subtree split of the Filament Table Builder (see filamentphp/filament)
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [u3u/prettier-config](https://github.com/u3u/prettier-config) - 🎨 The most perfect Prettier config
