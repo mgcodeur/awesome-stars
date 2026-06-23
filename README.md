@@ -388,7 +388,6 @@
 
 ## TypeScript 
 
-- [mgcodeur/shinobi-inventory](https://github.com/mgcodeur/shinobi-inventory) - 
 - [u3u/prettier-config](https://github.com/u3u/prettier-config) - 🎨 The most perfect Prettier config
 - [mgcodeur/soaci-video-downloader](https://github.com/mgcodeur/soaci-video-downloader) - 
 - [Ara-Archives/nautiljon-scraper](https://github.com/Ara-Archives/nautiljon-scraper) - Nautiljon scraper to automatically collect and format anime, manga, and character data.
