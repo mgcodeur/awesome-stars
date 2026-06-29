@@ -60,6 +60,7 @@
 - [julkwel/dtc-app](https://github.com/julkwel/dtc-app) - Digital Training Center Application
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [PrismJS/prism-themes](https://github.com/PrismJS/prism-themes) - A wider selection of Prism themes
+- [vineethtrv/css-loader](https://github.com/vineethtrv/css-loader) - This is a library having a collection of different types of CSS loaders, spinners
 - [Grafikart/CSS3-Loaders](https://github.com/Grafikart/CSS3-Loaders) - 
 
 ## Go 
@@ -138,7 +139,6 @@
 - [luwes/lite-vimeo-embed](https://github.com/luwes/lite-vimeo-embed) - 🎥 A faster Vimeo embed.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
-- [vineethtrv/css-loader](https://github.com/vineethtrv/css-loader) - This is a library having a collection of different types of CSS loaders, spinners
 - [mpociot/laravel-testtools](https://github.com/mpociot/laravel-testtools) - Chrome extension to generate Laravel integration tests while using your app.
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [mgcodeur/super-translator](https://github.com/mgcodeur/super-translator) - Translate text from any language to any language for free using (Google Translate, DeepL, Yandex Translate, Bing Translator)
