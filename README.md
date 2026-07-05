@@ -441,6 +441,7 @@
 - [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [tsirysndr/mada](https://github.com/tsirysndr/mada) - Search for regions, districts, communes and fokontany right from your Terminal
 - [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way https://backdropbuild.com/builds/v4/fluentci
+- [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 - [tabler/tabler-icons-figma](https://github.com/tabler/tabler-icons-figma) - A Figma plugin for Tabler Icons
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
@@ -460,7 +461,6 @@
 - [antfu/100](https://github.com/antfu/100) - My 100-day project of exploring design, compform, and new things.
 - [icehaunter/vue3-datepicker](https://github.com/icehaunter/vue3-datepicker) - Simple datepicker component for Vue 3
 - [laravel/breeze](https://github.com/laravel/breeze) - Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.
-- [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
 - [mostafaznv/nova-ckeditor](https://github.com/mostafaznv/nova-ckeditor) - CkEditor 5 Field for Laravel Nova with Media & Snippet Browsers
 - [epicmaxco/epic-spinners](https://github.com/epicmaxco/epic-spinners) - Easy to use css spinners collection with Vue.js integration
 
