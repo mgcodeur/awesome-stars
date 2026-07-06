@@ -429,7 +429,7 @@
 - [Akryum/floating-vue](https://github.com/Akryum/floating-vue) - 💬 Easy tooltips, popovers, dropdown, menus... for Vue
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [fluent-ci-templates/laravel-pipeline](https://github.com/fluent-ci-templates/laravel-pipeline) - A ready-to-use CI/CD Pipeline and jobs for Laravel projects.
-- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
+- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code — agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [tiavina-mika/mui-tiptap-editor](https://github.com/tiavina-mika/mui-tiptap-editor) - Tiptap editor with Material UI
 - [jean-humann/docs-to-pdf](https://github.com/jean-humann/docs-to-pdf) - Generate PDF for document website 🧑‍🔧
