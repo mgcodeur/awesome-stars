@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [agents](#agents)
 - [ai](#ai)
 - [ajax](#ajax)
@@ -17,7 +18,6 @@
 - [awesome-list](#awesome-list)
 - [bash](#bash)
 - [bootstrap](#bootstrap)
-- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -27,6 +27,7 @@
 - [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
+- [code](#code)
 - [command-line](#command-line)
 - [continuous-integration](#continuous-integration)
 - [css](#css)
@@ -135,6 +136,10 @@
 - [youtube](#youtube)
 - [zsh](#zsh)
 
+## agent 
+
+- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code — agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
+
 ## agents 
 
 - [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
@@ -143,7 +148,7 @@
 ## ai 
 
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
-- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
+- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code — agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 
 ## ajax 
@@ -170,7 +175,6 @@
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
 - [dedoc/scramble](https://github.com/dedoc/scramble) - Modern Laravel OpenAPI (Swagger) documentation generator. No PHPDoc annotations required.
-- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -207,19 +211,13 @@
 - [spatie/package-skeleton-laravel](https://github.com/spatie/package-skeleton-laravel) - A skeleton repository for Spatie's Laravel Packages
 - [StartBootstrap/startbootstrap-sb-admin](https://github.com/StartBootstrap/startbootstrap-sb-admin) - A free, open source, Bootstrap admin theme created by Start Bootstrap
 
-## chatbot 
-
-- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
-
 ## chatgpt 
 
 - [maltekuhr/laravel-gpt](https://github.com/maltekuhr/laravel-gpt) - LaravelGPT: Streamlined integration of OpenAI's ChatGPT (GPT-3.5, GPT-4) into Laravel applications for advanced AI-powered text generation and analysis.
-- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 
 ## chatgpt-api 
 
 - [maltekuhr/laravel-gpt](https://github.com/maltekuhr/laravel-gpt) - LaravelGPT: Streamlined integration of OpenAI's ChatGPT (GPT-3.5, GPT-4) into Laravel applications for advanced AI-powered text generation and analysis.
-- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 
 ## chrome 
 
@@ -256,6 +254,10 @@
 
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
+
+## code 
+
+- [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code — agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
 
 ## command-line 
 
@@ -770,7 +772,6 @@
 
 - [openai-php/client](https://github.com/openai-php/client) - ⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 - [maltekuhr/laravel-gpt](https://github.com/maltekuhr/laravel-gpt) - LaravelGPT: Streamlined integration of OpenAI's ChatGPT (GPT-3.5, GPT-4) into Laravel applications for advanced AI-powered text generation and analysis.
-- [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 
 ## others 
 
