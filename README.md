@@ -370,7 +370,6 @@
 ## SCSS 
 
 - [mgcodeur/laravel-sneat-starter](https://github.com/mgcodeur/laravel-sneat-starter) - 
-- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [DTC-Formation/evaluation-html-css-mgcodeur](https://github.com/DTC-Formation/evaluation-html-css-mgcodeur) - evaluation-html-css-mgcodeur created by GitHub Classroom
 
 ## SVG 
@@ -442,6 +441,7 @@
 - [tsirysndr/mada](https://github.com/tsirysndr/mada) - Search for regions, districts, communes and fokontany right from your Terminal
 - [fluentci-io/fluentci](https://github.com/fluentci-io/fluentci) - Set up and run your CI locally or in any CI Provider in a consistent way https://backdropbuild.com/builds/v4/fluentci
 - [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
+- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 - [tabler/tabler-icons-figma](https://github.com/tabler/tabler-icons-figma) - A Figma plugin for Tabler Icons
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
