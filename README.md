@@ -230,7 +230,7 @@
 - [LaravelDaily/laravel-charts](https://github.com/LaravelDaily/laravel-charts) - Package to draw charts in Laravel with Chart.js
 - [api-platform/laravel](https://github.com/api-platform/laravel) - [READ ONLY] API Platform for Laravel
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time.
-- [Thavarshan/fetch-php](https://github.com/Thavarshan/fetch-php) - 🚀 A lightweight HTTP library inspired by JavaScript's fetch, bringing simplicity and flexibility to PHP HTTP requests.
+- [Thavarshan/fetch-php](https://github.com/Thavarshan/fetch-php) - 🚀 Modern PHP HTTP client inspired by JavaScript's fetch API. Async/await, streaming, SSE, middleware, RFC 7234 caching, and full PSR-7/18 compliance.
 - [barryvdh/laravel-translation-manager](https://github.com/barryvdh/laravel-translation-manager) - Manage Laravel translation files
 - [spatie/laravel-settings](https://github.com/spatie/laravel-settings) - Store strongly typed application settings
 - [spatie/laravel-translation-loader](https://github.com/spatie/laravel-translation-loader) - Store your translations in the database or other sources
@@ -306,7 +306,7 @@
 - [nazonohito51/clean-architecture-sample](https://github.com/nazonohito51/clean-architecture-sample) - Implementation of Clean Architecture by Laravel.
 - [statikbe/laravel-filament-flexible-content-blocks](https://github.com/statikbe/laravel-filament-flexible-content-blocks) - The Laravel Filament Flexible Content Blocks package helps you to easily create content in Filament for any model, with predefined or custom blocks, and foreach block an extendable Blade view componen
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [pestphp/pest](https://github.com/pestphp/pest) - The elegant testing framework for PHP developers and AI agents.
 - [codezero-be/laravel-unique-translation](https://github.com/codezero-be/laravel-unique-translation) - ⭐️ Check if a translated value in a JSON column is unique in the database.
 - [Grafikart/Grafikart.fr](https://github.com/Grafikart/Grafikart.fr) - Dépôt pour la nouvelle version de Grafikart.fr
 - [nuwave/lighthouse](https://github.com/nuwave/lighthouse) - A framework for serving GraphQL from Laravel
