@@ -120,6 +120,7 @@
 - [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 - [lazymozek/gulp-with-tailwindcss](https://github.com/lazymozek/gulp-with-tailwindcss) - Gulp with TailwindCSS Starter Kit
 - [catamphetamine/libphonenumber-js](https://github.com/catamphetamine/libphonenumber-js) - A simpler (and smaller) rewrite of Google Android's libphonenumber library in javascript
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
 - [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [yeoman/yo](https://github.com/yeoman/yo) - CLI tool for running Yeoman generators
@@ -164,7 +165,6 @@
 - [nuxt/awesome](https://github.com/nuxt/awesome) - A curated list of awesome things related to Nuxt.js
 - [glennsantos/senior-developer-roadmap](https://github.com/glennsantos/senior-developer-roadmap) - Senior Developer Roadmap, skills and traits developers need to advance to a senior position.
 - [spatie/checklist-going-live](https://github.com/spatie/checklist-going-live) - The checklist that is used when a project is going live
-- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [mgcodeur/awesome-stars](https://github.com/mgcodeur/awesome-stars) - My Awesome List
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
