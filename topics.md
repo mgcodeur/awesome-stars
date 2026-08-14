@@ -277,7 +277,7 @@
 - [iharena/flyx-ui](https://github.com/iharena/flyx-ui) - Laravel Flyx UI provides modern, customizable file uploader UI components built to work with Blade, Vue, React, and Livewire. Designed for easy integration and framework flexibility, Flyx UI brings a 
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
-- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
+- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular CSS minifier, built on top of the PostCSS ecosystem.
 - [lazymozek/gulp-with-tailwindcss](https://github.com/lazymozek/gulp-with-tailwindcss) - Gulp with TailwindCSS Starter Kit
 - [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
