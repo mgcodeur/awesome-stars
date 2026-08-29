@@ -390,6 +390,7 @@
 
 ## TypeScript 
 
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [u3u/prettier-config](https://github.com/u3u/prettier-config) - 🎨 The most perfect Prettier config
 - [mgcodeur/soaci-video-downloader](https://github.com/mgcodeur/soaci-video-downloader) - 
