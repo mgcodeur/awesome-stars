@@ -239,6 +239,7 @@
 
 ## cli 
 
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
@@ -263,6 +264,7 @@
 
 ## command-line 
 
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [tsirysndr/tunein-cli](https://github.com/tsirysndr/tunein-cli) - Browse and listen to thousands of radio stations across the globe right from your terminal 🌎 📻 🎵✨
 - [npkgz/cli-progress](https://github.com/npkgz/cli-progress) - :hourglass: easy to use progress-bar for command-line/terminal applications
@@ -519,6 +521,7 @@
 
 ## javascript 
 
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [locomotivemtl/locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 🛤 Detection of elements in viewport & smooth scrolling with parallax.
 - [beholdr/maska](https://github.com/beholdr/maska) - Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -1004,6 +1007,7 @@
 
 ## react 
 
+- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [formkit/formkit](https://github.com/formkit/formkit) - The form framework for coding agents
