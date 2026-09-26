@@ -147,6 +147,7 @@
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [bluzky/nice-select2](https://github.com/bluzky/nice-select2) - A lightweight vanilla javascript library that replaces native select elements with customizable dropdowns
 - [luwes/lite-vimeo-embed](https://github.com/luwes/lite-vimeo-embed) - 🎥 A faster Vimeo embed.
+- [tabler/tabler-icons-figma](https://github.com/tabler/tabler-icons-figma) - A Figma plugin for Tabler Icons
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [LimeSurvey/LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) - 🔥 LimeSurvey – A powerful, open-source survey platform. A free alternative to SurveyMonkey, Typeform, Qualtrics, and Google Forms, making it simple to create online surveys and forms with unmatched fl
 - [mpociot/laravel-testtools](https://github.com/mpociot/laravel-testtools) - Chrome extension to generate Laravel integration tests while using your app.
@@ -451,7 +452,6 @@
 - [nuxt/ui](https://github.com/nuxt/ui) - The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
-- [tabler/tabler-icons-figma](https://github.com/tabler/tabler-icons-figma) - A Figma plugin for Tabler Icons
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [vitalets/google-translate-api](https://github.com/vitalets/google-translate-api) - A free and unlimited API for Google Translate :dollar: :no_entry_sign:
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
