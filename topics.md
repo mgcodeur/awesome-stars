@@ -8,6 +8,7 @@
 - [agent](#agent)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [ajax](#ajax)
 - [analytics](#analytics)
 - [android](#android)
@@ -80,6 +81,7 @@
 - [lua](#lua)
 - [macos](#macos)
 - [markdown](#markdown)
+- [mcp](#mcp)
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
@@ -152,6 +154,10 @@
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from all over the web in your browser new tab or on mobile. Free and open source.
 - [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) - Open-source Cursor-like AI coding agent for VS Code - agentic chat, multi-provider LLMs (OpenAI, Ollama, llama.cpp), semantic search, and MCP support
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+
+## ai-agents 
+
+- [thenavidm/facebook-mcp](https://github.com/thenavidm/facebook-mcp) - Facebook MCP server for Claude Code and AI agents. Posting, scheduling, drafts, Page and post insights, and comment moderation through Meta's official Graph API.
 
 ## ajax 
 
@@ -231,10 +237,12 @@
 
 ## claude 
 
+- [thenavidm/facebook-mcp](https://github.com/thenavidm/facebook-mcp) - Facebook MCP server for Claude Code and AI agents. Posting, scheduling, drafts, Page and post insights, and comment moderation through Meta's official Graph API.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
 ## claude-code 
 
+- [thenavidm/facebook-mcp](https://github.com/thenavidm/facebook-mcp) - Facebook MCP server for Claude Code and AI agents. Posting, scheduling, drafts, Page and post insights, and comment moderation through Meta's official Graph API.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
 ## cli 
@@ -375,6 +383,7 @@
 
 ## facebook 
 
+- [thenavidm/facebook-mcp](https://github.com/thenavidm/facebook-mcp) - Facebook MCP server for Claude Code and AI agents. Posting, scheduling, drafts, Page and post insights, and comment moderation through Meta's official Graph API.
 - [overtrue/socialite](https://github.com/overtrue/socialite) - Socialite is an OAuth2 Authentication tool. It is inspired by laravel/socialite, you can easily use it without Laravel.
 
 ## font 
@@ -720,6 +729,10 @@
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+
+## mcp 
+
+- [thenavidm/facebook-mcp](https://github.com/thenavidm/facebook-mcp) - Facebook MCP server for Claude Code and AI agents. Posting, scheduling, drafts, Page and post insights, and comment moderation through Meta's official Graph API.
 
 ## monitoring 
 
@@ -1147,6 +1160,7 @@
 
 ## typescript 
 
+- [thenavidm/facebook-mcp](https://github.com/thenavidm/facebook-mcp) - Facebook MCP server for Claude Code and AI agents. Posting, scheduling, drafts, Page and post insights, and comment moderation through Meta's official Graph API.
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [una-ui/una-ui](https://github.com/una-ui/una-ui) - The Atomic UI framework for Nuxt, powered by Unocss engine 💛
 - [iharena/flyx-ui](https://github.com/iharena/flyx-ui) - Laravel Flyx UI provides modern, customizable file uploader UI components built to work with Blade, Vue, React, and Livewire. Designed for easy integration and framework flexibility, Flyx UI brings a 
