@@ -155,7 +155,6 @@
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [mgcodeur/super-translator](https://github.com/mgcodeur/super-translator) - Translate text from any language to any language for free using (Google Translate, DeepL, Yandex Translate, Bing Translator)
 - [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
-- [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 - [mgcodeur/proxy-middleware](https://github.com/mgcodeur/proxy-middleware) - 
 - [spatie/docs.spatie.be-old](https://github.com/spatie/docs.spatie.be-old) - Code of docs.spatie.be
 
@@ -458,6 +457,7 @@
 - [vitalets/google-translate-api](https://github.com/vitalets/google-translate-api) - A free and unlimited API for Google Translate :dollar: :no_entry_sign:
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - [nuxt-modules/apollo](https://github.com/nuxt-modules/apollo) - Nuxt.js module to use Vue-Apollo. The Apollo integration for GraphQL.
+- [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 - [tsirysndr/mvola-node](https://github.com/tsirysndr/mvola-node) - Node.js library for the MVola API
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [shufo/vscode-blade-formatter](https://github.com/shufo/vscode-blade-formatter) - An opinionated Blade file formatter for VSCode
