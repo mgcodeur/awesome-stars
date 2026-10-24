@@ -42,6 +42,7 @@
 - [distributed-systems](#distributed-systems)
 - [docker](#docker)
 - [documentation](#documentation)
+- [downloader](#downloader)
 - [es6](#es6)
 - [eslint](#eslint)
 - [facebook](#facebook)
@@ -371,6 +372,10 @@
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [DarkaOnLine/L5-Swagger](https://github.com/DarkaOnLine/L5-Swagger) - OpenApi or Swagger integration to Laravel
 - [spatie/docs.spatie.be-old](https://github.com/spatie/docs.spatie.be-old) - Code of docs.spatie.be
+
+## downloader 
+
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 ## es6 
 
