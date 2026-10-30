@@ -13,6 +13,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [api](#api)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -181,6 +182,11 @@
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
+
+## animation 
+
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+- [vineethtrv/css-loader](https://github.com/vineethtrv/css-loader) - This is a library having a collection of different types of CSS loaders, spinners
 
 ## api 
 
@@ -906,7 +912,6 @@
 - [tabler/tabler-icons-figma](https://github.com/tabler/tabler-icons-figma) - A Figma plugin for Tabler Icons
 - [meilisearch/documentation](https://github.com/meilisearch/documentation) - Meilisearch documentation
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
-- [vineethtrv/css-loader](https://github.com/vineethtrv/css-loader) - This is a library having a collection of different types of CSS loaders, spinners
 - [mpociot/laravel-testtools](https://github.com/mpociot/laravel-testtools) - Chrome extension to generate Laravel integration tests while using your app.
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [DTC-Formation/evaluation-html-css-mgcodeur](https://github.com/DTC-Formation/evaluation-html-css-mgcodeur) - evaluation-html-css-mgcodeur created by GitHub Classroom
