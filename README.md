@@ -470,6 +470,7 @@
 
 ## Vue 
 
+- [Kuina-UI/docs](https://github.com/Kuina-UI/docs) - Documentation for Kuina UI, the free, open-source Vue component library
 - [una-ui/una-ui](https://github.com/una-ui/una-ui) - The Atomic UI framework for Nuxt, powered by Unocss engine 💛
 - [mgcodeur/vue-bottom-sheet](https://github.com/mgcodeur/vue-bottom-sheet) - 🔥 A nice clean and touch-friendly bottom sheet component based on Vue.js and Hammer.js for Vue 3
 - [antfu/100](https://github.com/antfu/100) - My 100-day project of exploring design, compform, and new things.
